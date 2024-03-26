@@ -1,4 +1,6 @@
 topic,year,author,title,paper,note,tags,status
+DOX,2018,Katti,Chargrid_Towards Understanding 2D Documents,./files/DOX/[2018 @sap Katti] Chargrid_Towards Understanding 2D Documents.pdf,,sap,
+DOX,2019,Xu,LayoutLM_Pre-training of Text and Layout for Document Image Understanding,./files/DOX/[2019 Xu] LayoutLM_Pre-training of Text and Layout for Document Image Understanding.pdf,,,
 DOX,2020,Reisswig,Chargrid-OCR_End-to-end Trainable Optical Character Recognition for Printed Documents using Instance Segmentation,./files/DOX/[2020 Reisswig] Chargrid-OCR_End-to-end Trainable Optical Character Recognition for Printed Documents using Instance Segmentation.pdf,,,
 DOX,2023,Yu,DocumentNet_Bridging the Data Gap in Document Pre-Training,./files/DOX/[2023 @emnlp Yu] DocumentNet_Bridging the Data Gap in Document Pre-Training.pdf,,emnlp,
 DOX,2023,Blecher,Nougat_Neural Optical Understanding for Academic Documents,./files/DOX/[2023 @meta Blecher] Nougat_Neural Optical Understanding for Academic Documents.pdf,,meta,
