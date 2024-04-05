@@ -34,7 +34,7 @@ def update_database(file_path: str, note_path: str, data_path: str, topics: List
             row = pd.DataFrame([[topic, year, author, title, paper_path, note_file_path, tag, '']], columns=columns)
             if row['title'].values not in database['title'].values:
                 paper_df = pd.concat([paper_df, row], ignore_index=True)
-                print(row)
+                print(row.to_dict())
     print(f'extracted {len(paper_df)} papers')
 
     database = pd.concat([database, paper_df], ignore_index=True)
