@@ -137,3 +137,5 @@ dmypy.json
 
 # Mac
 .DS_Store
+**/.DS_Store
+.DS_Store?
