@@ -668,6 +668,10 @@ Paper Vault
   - ![year](https://img.shields.io/badge/year-2024-green?style=flat)
     ![auth](https://img.shields.io/badge/author-Chen-blue?style=flat)
     [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2024%20Chen]%20Octopus%20v2_On-device%20language%20model%20for%20super%20agent.pdf)
+- [ ] Understanding Emergent Abilities of Language Models from the Loss Perspective
+  - ![year](https://img.shields.io/badge/year-2024-green?style=flat)
+    ![auth](https://img.shields.io/badge/author-Du-blue?style=flat)
+    [![file](https://img.shields.io/badge/File-red?style=flat)](./files/NLP/[2024%20Du]%20Understanding%20Emergent%20Abilities%20of%20Language%20Models%20from%20the%20Loss%20Perspective.pdf)
 - [ ] Zero-Shot Cross-Lingual Document-Level Event Causality Identification with Heterogeneous Graph Contrastive Transfer Learning
   - ![year](https://img.shields.io/badge/year-2024-green?style=flat)
     ![auth](https://img.shields.io/badge/author-He-blue?style=flat)
