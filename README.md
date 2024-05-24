@@ -44,6 +44,16 @@ Paper Vault
   UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning
   ![year](https://img.shields.io/badge/2023-green?style=flat)
   ![auth](https://img.shields.io/badge/Masry-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20@alibaba%20Luo]%20LayoutLLM_Layout%20Instruction%20Tuning%20with%20Large%20Language%20Models%20for%20Document%20Understanding.pdf)
+  LayoutLLM: Layout Instruction Tuning with Large Language Models for Document Understanding
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Luo-red?style=flat)
+  ![tags](https://img.shields.io/badge/alibaba-blue?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20@alibaba%20Wan]%20OmniParser_A%20Unified%20Framework%20for%20Text%20Spotting,%20Key%20Information%20Extraction%20and%20Table%20Recognition.pdf)
+  OmniParser: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Wan-red?style=flat)
+  ![tags](https://img.shields.io/badge/alibaba-blue?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Abdallah]%20Transformers%20and%20Language%20Models%20in%20Form%20Understanding_A%20Comprehensive%20Review%20of%20Scanned%20Document%20Analysis.pdf)
   Transformers and Language Models in Form Understanding: A Comprehensive Review of Scanned Document Analysis
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -68,10 +78,10 @@ Paper Vault
   Visually Guided Generative Text-Layout Pre-training for Document Intelligence
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Mao-red?style=flat)
-- [ ] [:link:](./files/DOX/[2024%20Wan]%20OmniParser_A%20Unified%20Framework%20for%20Text%20Spotting,%20Key%20Information%20Extraction%20and%20Table%20Recognition.pdf)
-  OmniParser: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition
+- [ ] [:link:](./files/DOX/[2024%20Shehzadi]%20A%20Hybrid%20Approach%20for%20Document%20Layout%20Analysis%20in%20Document%20images.pdf)
+  A Hybrid Approach for Document Layout Analysis in Document images
   ![year](https://img.shields.io/badge/2024-green?style=flat)
-  ![auth](https://img.shields.io/badge/Wan-red?style=flat)
+  ![auth](https://img.shields.io/badge/Shehzadi-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Xia]%20StructChart_Perception,%20Structuring,%20Reasoning%20for%20Visual%20Chart%20Understanding.pdf)
   StructChart: Perception, Structuring, Reasoning for Visual Chart Understanding
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -414,6 +424,11 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/McKinzie-red?style=flat)
   ![tags](https://img.shields.io/badge/apple-blue?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20@google%20#gemini%20Google]%20Gemini%201.5_Unlocking%20multimodal%20understanding%20across%20millions%20of%20tokens%20of%20context.pdf)
+  Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Google-red?style=flat)
+  ![tags](https://img.shields.io/badge/google-blue?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20@google%20Munkhdalai]%20Leave%20No%20Context%20Behind_Efficient%20Infinite%20Context%20Transformers%20with%20Infini-attention.pdf)
   Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -429,11 +444,20 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Sun-red?style=flat)
   ![tags](https://img.shields.io/badge/iclr-blue?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20@microsoft%20Sun]%20You%20Only%20Cache%20Once_Decoder-Decoder%20Architectures%20for%20Language%20Models.pdf)
+  You Only Cache Once: Decoder-Decoder Architectures for Language Models
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Sun-red?style=flat)
+  ![tags](https://img.shields.io/badge/microsoft-blue?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20@nvidia%20Hsieh]%20RULER_What's%20the%20Real%20Context%20Size%20of%20Your%20Long-Context%20Language%20Models.pdf)
   RULER: What's the Real Context Size of Your Long-Context Language Models
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Hsieh-red?style=flat)
   ![tags](https://img.shields.io/badge/nvidia-blue?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20Chen]%20How%20Far%20Are%20We%20to%20GPT-4V.%20Closing%20the%20Gap%20to%20Commercial%20Multimodal%20Models%20with%20Open-Source%20Suites.pdf)
+  How Far Are We to GPT-4V. Closing the Gap to Commercial Multimodal Models with Open-Source Suites
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Chen-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20Chen]%20Octopus%20v2_On-device%20language%20model%20for%20super%20agent.pdf)
   Octopus v2: On-device language model for super agent
   ![year](https://img.shields.io/badge/2024-green?style=flat)
