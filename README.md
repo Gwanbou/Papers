@@ -54,6 +54,16 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Wan-red?style=flat)
   ![tags](https://img.shields.io/badge/alibaba-blue?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20@microsoft%20Wang]%20DLAFormer_An%20End-to-End%20Transformer%20For%20Document%20Layout%20Analysis%20.pdf)
+  DLAFormer: An End-to-End Transformer For Document Layout Analysis
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Wang-red?style=flat)
+  ![tags](https://img.shields.io/badge/microsoft-blue?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20@microsoft%20Xia]%20Vision%20Language%20Models%20for%20Spreadsheet%20Understanding_Challenges%20and%20Opportunities.pdf)
+  Vision Language Models for Spreadsheet Understanding: Challenges and Opportunities
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Xia-red?style=flat)
+  ![tags](https://img.shields.io/badge/microsoft-blue?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Abdallah]%20Transformers%20and%20Language%20Models%20in%20Form%20Understanding_A%20Comprehensive%20Review%20of%20Scanned%20Document%20Analysis.pdf)
   Transformers and Language Models in Form Understanding: A Comprehensive Review of Scanned Document Analysis
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -74,6 +84,10 @@ Paper Vault
   TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Liu-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Lu]%20From%20Text%20to%20Pixel_Advancing%20Long-Context%20Understanding%20in%20MLLMs.pdf)
+  From Text to Pixel: Advancing Long-Context Understanding in MLLMs
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Lu-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Mao]%20Visually%20Guided%20Generative%20Text-Layout%20Pre-training%20for%20Document%20Intelligence.pdf)
   Visually Guided Generative Text-Layout Pre-training for Document Intelligence
   ![year](https://img.shields.io/badge/2024-green?style=flat)
