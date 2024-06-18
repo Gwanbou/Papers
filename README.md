@@ -64,10 +64,18 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Xia-red?style=flat)
   ![tags](https://img.shields.io/badge/microsoft-blue?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Abdallah]%20CORU_Comprehensive%20Post-OCR%20Parsing%20and%20Receipt%20Understanding%20Dataset.pdf)
+  CORU: Comprehensive Post-OCR Parsing and Receipt Understanding Dataset
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Abdallah-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Abdallah]%20Transformers%20and%20Language%20Models%20in%20Form%20Understanding_A%20Comprehensive%20Review%20of%20Scanned%20Document%20Analysis.pdf)
   Transformers and Language Models in Form Understanding: A Comprehensive Review of Scanned Document Analysis
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Abdallah-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Biswas]%20DocSynthv2_A%20Practical%20Autoregressive%20Modeling%20for%20Document%20Generation.pdf)
+  DocSynthv2: A Practical Autoregressive Modeling for Document Generation
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Biswas-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Boytsov]%20Understanding%20Performance%20of%20Long-Document%20Ranking%20Models%20through%20Comprehensive%20Evaluation%20and%20Leaderboarding.pdf)
   Understanding Performance of Long-Document Ranking Models through Comprehensive Evaluation and Leaderboarding
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -80,6 +88,14 @@ Paper Vault
   PDF-MVQA: A Dataset for Multimodal Information Retrieval in PDF-based Visual Question Answering
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Ding-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Futeral]%20mOSCAR_A%20Large-scale%20Multilingual%20and%20Multimodal%20Document-level%20Corpus.pdf)
+  mOSCAR: A Large-scale Multilingual and Multimodal Document-level Corpus
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Futeral-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Hsu]%20M3T_A%20New%20Benchmark%20Dataset%20for%20Multi-Modal%20Document-Level%20Machine%20Translation.pdf)
+  M3T: A New Benchmark Dataset for Multi-Modal Document-Level Machine Translation
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Hsu-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Liu]%20TextMonkey_An%20OCR-Free%20Large%20Multimodal%20Model%20for%20Understanding%20Document.pdf)
   TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -468,6 +484,11 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Hsieh-red?style=flat)
   ![tags](https://img.shields.io/badge/nvidia-blue?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20@nvidia%20Nvidia]%20Nemotron-4%20340B%20Technical%20Report.pdf)
+  Nemotron-4 340B Technical Report
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Nvidia-red?style=flat)
+  ![tags](https://img.shields.io/badge/nvidia-blue?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20Chen]%20How%20Far%20Are%20We%20to%20GPT-4V.%20Closing%20the%20Gap%20to%20Commercial%20Multimodal%20Models%20with%20Open-Source%20Suites.pdf)
   How Far Are We to GPT-4V. Closing the Gap to Commercial Multimodal Models with Open-Source Suites
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -480,6 +501,10 @@ Paper Vault
   Understanding Emergent Abilities of Language Models from the Loss Perspective
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Du-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20Fan]%20A%20Survey%20on%20RAG%20Meeting%20LLMs_Towards%20Retrieval-Augmented%20Large%20Language%20Models.pdf)
+  A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Fan-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20Gao]%20Higher%20Layers%20Need%20More%20LoRA%20Experts.pdf)
   Higher Layers Need More LoRA Experts
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -924,6 +949,10 @@ Paper Vault
   TableLLM: Enabling Tabular Data Manipulation by LLMs in Real Office Usage Scenarios
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Zhang-red?style=flat)
+- [ ] [:link:](./files/TAB/[2024%20Zheng]%20Multimodal%20Table%20Understanding.pdf)
+  Multimodal Table Understanding
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Zheng-red?style=flat)
 <!-- AUTOGENERATED_TAB -->
 
 
