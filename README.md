@@ -88,6 +88,10 @@ Paper Vault
   PDF-MVQA: A Dataset for Multimodal Information Retrieval in PDF-based Visual Question Answering
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Ding-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Faysse]%20ColPali_Efficient%20Document%20Retrieval%20with%20Vision%20Language%20Models.pdf)
+  ColPali: Efficient Document Retrieval with Vision Language Models
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Faysse-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Futeral]%20mOSCAR_A%20Large-scale%20Multilingual%20and%20Multimodal%20Document-level%20Corpus.pdf)
   mOSCAR: A Large-scale Multilingual and Multimodal Document-level Corpus
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -96,10 +100,18 @@ Paper Vault
   M3T: A New Benchmark Dataset for Multi-Modal Document-Level Machine Translation
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Hsu-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Hui]%20UDA_A%20Benchmark%20Suite%20for%20Retrieval%20Augmented%20Generation%20in%20Real-world%20Document%20Analysis%20.pdf)
+  UDA: A Benchmark Suite for Retrieval Augmented Generation in Real-world Document Analysis
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Hui-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Liu]%20TextMonkey_An%20OCR-Free%20Large%20Multimodal%20Model%20for%20Understanding%20Document.pdf)
   TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Liu-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Lu]%20A%20Bounding%20Box%20is%20Worth%20One%20Token_Interleaving%20Layout%20and%20Text%20in%20a%20Large%20Language%20Model%20for%20Document%20Understanding.pdf)
+  A Bounding Box is Worth One Token: Interleaving Layout and Text in a Large Language Model for Document Understanding
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Lu-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Lu]%20From%20Text%20to%20Pixel_Advancing%20Long-Context%20Understanding%20in%20MLLMs.pdf)
   From Text to Pixel: Advancing Long-Context Understanding in MLLMs
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -108,6 +120,10 @@ Paper Vault
   Visually Guided Generative Text-Layout Pre-training for Document Intelligence
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Mao-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Mohammadshirazi]%20DocParseNet_Advanced%20Semantic%20Segmentation%20and%20OCR%20Embeddings%20for%20Efficient%20Scanned%20Document%20Annotation.pdf)
+  DocParseNet: Advanced Semantic Segmentation and OCR Embeddings for Efficient Scanned Document Annotation
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Mohammadshirazi-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Shehzadi]%20A%20Hybrid%20Approach%20for%20Document%20Layout%20Analysis%20in%20Document%20images.pdf)
   A Hybrid Approach for Document Layout Analysis in Document images
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -120,6 +136,10 @@ Paper Vault
   TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Yu-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Zhang]%20DocKylin_A%20Large%20Multimodal%20Model%20for%20Visual%20Document%20Understanding%20with%20Efficient%20Visual%20Slimming.pdf)
+  DocKylin: A Large Multimodal Model for Visual Document Understanding with Efficient Visual Slimming
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Zhang-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Zmigrod]%20BuDDIE_A%20Business%20Document%20Dataset%20for%20Multi-task%20Information%20Extraction.pdf)
   BuDDIE: A Business Document Dataset for Multi-task Information Extraction
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -521,6 +541,10 @@ Paper Vault
   User-LLM: Efficient LLM Contextualization with User Embeddings
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Ning-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20Wang]%20One%20Prompt%20is%20not%20Enough_Automated%20Construction%20of%20a%20Mixture-of-Expert%20Prompts.pdf)
+  One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Wang-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20Wang]%20SeaEval%20for%20Multilingual%20Foundation%20Models_From%20Cross-Lingual%20Alignment%20to%20Cultural%20Reasoning.pdf)
   SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -921,6 +945,10 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Fang-red?style=flat)
   ![tags](https://img.shields.io/badge/amazon-blue?style=flat)
+- [ ] [:link:](./files/TAB/[2024%20Ajayi]%20Uncertainty%20Quantification%20in%20Table%20Structure%20Recognition.pdf)
+  Uncertainty Quantification in Table Structure Recognition
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Ajayi-red?style=flat)
 - [ ] [:link:](./files/TAB/[2024%20Deng]%20Tables%20as%20Images_Exploring%20the%20Strengths%20and%20Limitations%20of%20LLMs%20on%20Multimodal%20Representations%20of%20Tabular%20Data.pdf)
   Tables as Images: Exploring the Strengths and Limitations of LLMs on Multimodal Representations of Tabular Data
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -1111,6 +1139,10 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/HAI-red?style=flat)
   ![tags](https://img.shields.io/badge/stanford-blue?style=flat)
+- [ ] [:link:](./files/UNSORTED/[2024%20Fuest]%20Diffusion%20Models%20and%20Representation%20Learning_A%20Survey.pdf)
+  Diffusion Models and Representation Learning: A Survey
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Fuest-red?style=flat)
 <!-- AUTOGENERATED_UNSORTED -->
 
 
