@@ -3,6 +3,7 @@ import os
 from typing import List
 
 import pandas as pd
+from tabulate import tabulate
 
 YEAR_PATTERN = '![year](https://img.shields.io/badge/{}-green?style=flat)'
 AUTH_PATTERN = '![auth](https://img.shields.io/badge/{}-red?style=flat)'
@@ -28,9 +29,11 @@ def update_database(file_path: str, data_path: str, topics: List[str], columns: 
             row = pd.DataFrame([[topic, year, author, title, paper_path, tag, '']], columns=columns)
             if row['title'].values not in database['title'].values:
                 paper_df = pd.concat([paper_df, row], ignore_index=True)
-                print(row.to_dict(orient='list'))
 
-    print(f'extracted {len(paper_df)} papers')
+    printed_columns = ['topic', 'year', 'author', 'title', 'tags', 'status']
+    markdown_table = tabulate(paper_df[printed_columns], headers='keys', tablefmt='pipe', showindex=False)
+    print(f'Extracted {len(paper_df)} papers:')
+    print(markdown_table)
 
     database = pd.concat([database, paper_df], ignore_index=True)
     database = database.sort_values('paper', ignore_index=True)
