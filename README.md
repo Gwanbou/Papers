@@ -578,6 +578,11 @@ Paper Vault
   ![year](https://img.shields.io/badge/2020-green?style=flat)
   ![auth](https://img.shields.io/badge/Huang-red?style=flat)
   ![tags](https://img.shields.io/badge/aws-blue?style=flat)
+- [ ] [:link:](./files/TAB/[2020%20@cvpr%20Prasad]%20CascadeTabNet_An%20approach%20for%20end%20to%20end%20table%20detection%20and%20structure%20recognition%20from%20image-based%20documents.pdf)
+  CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents
+  ![year](https://img.shields.io/badge/2020-green?style=flat)
+  ![auth](https://img.shields.io/badge/Prasad-red?style=flat)
+  ![tags](https://img.shields.io/badge/cvpr-blue?style=flat)
 - [x] [:link:](./files/TAB/[2020%20@neurips%20Yoon]%20VIME_Extending%20the%20Success%20of%20Self-%20and%20Semi-supervised%20Learning%20to%20Tabular%20Domain.pdf)
   VIME: Extending the Success of Self- and Semi-supervised Learning to Tabular Domain
   ![year](https://img.shields.io/badge/2020-green?style=flat)
@@ -731,6 +736,21 @@ Paper Vault
   ![year](https://img.shields.io/badge/2023-green?style=flat)
   ![auth](https://img.shields.io/badge/Zhang-red?style=flat)
   ![tags](https://img.shields.io/badge/aws-blue?style=flat)
+- [ ] [:link:](./files/TAB/[2023%20@cvpr%20Cheng]%20M6Doc_A%20Large-Scale%20Multi-Format,%20Multi-Type,%20Multi-Layout,%20Multi-Language,%20Multi-Annotation%20Category%20Dataset%20for%20Modern%20Document%20Layout%20Analysis.pdf)
+  M6Doc: A Large-Scale Multi-Format, Multi-Type, Multi-Layout, Multi-Language, Multi-Annotation Category Dataset for Modern Document Layout Analysis
+  ![year](https://img.shields.io/badge/2023-green?style=flat)
+  ![auth](https://img.shields.io/badge/Cheng-red?style=flat)
+  ![tags](https://img.shields.io/badge/cvpr-blue?style=flat)
+- [ ] [:link:](./files/TAB/[2023%20@cvpr%20Da]%20Vision%20Grid%20Transformer%20for%20Document%20Layout%20Analysis.pdf)
+  Vision Grid Transformer for Document Layout Analysis
+  ![year](https://img.shields.io/badge/2023-green?style=flat)
+  ![auth](https://img.shields.io/badge/Da-red?style=flat)
+  ![tags](https://img.shields.io/badge/cvpr-blue?style=flat)
+- [ ] [:link:](./files/TAB/[2023%20@cvpr%20Huang]%20Improving%20Table%20Structure%20Recognition%20With%20Visual-Alignment%20Sequential%20Coordinate%20Modeling.pdf)
+  Improving Table Structure Recognition With Visual-Alignment Sequential Coordinate Modeling
+  ![year](https://img.shields.io/badge/2023-green?style=flat)
+  ![auth](https://img.shields.io/badge/Huang-red?style=flat)
+  ![tags](https://img.shields.io/badge/cvpr-blue?style=flat)
 - [ ] [:link:](./files/TAB/[2023%20@emnlp%20Akhtar]%20Exploring%20the%20Numerical%20Reasoning%20Capabilities%20of%20Language%20Models_A%20Comprehensive%20Analysis%20on%20Tabular%20Data.pdf)
   Exploring the Numerical Reasoning Capabilities of Language Models: A Comprehensive Analysis on Tabular Data
   ![year](https://img.shields.io/badge/2023-green?style=flat)
