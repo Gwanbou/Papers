@@ -1,16 +1,13 @@
 ## TabR: Unlocking the Power of Retrieval-Augmented Tabular Deep Learning
 
-### Overview
-
+Overview
 - The authors of the paper argue that retrieval-based methods can be used to improve the performance of deep learning models for tabular data.
 - They propose TabR, which combines a simple feed-forward architecture with an attention-like retrieval component.
 
-### Key takeaways from the paper
-
+Key takeaways from the paper
 - Retrieval-based methods can be used to improve the performance of deep learning models for tabular data.
 
-### Limitations and comments
-
+Limitations and comments
 - Mostly limited only to numerical features.
 - It's still surprising that using an average of the embeddings of the training data fares better than just using a model trained on the training data. There's no additional data that is used at testing time (as opposed to how it was for our payment date prediction use case), so an adequate model should be able to memorize the training set and not need this retrieval step.
 - When comparing against Boost methods, they probably have to cheat a bit to win: i.e., they never compare single trainings, but only ensembles of such models. For boosting methods, this adds no value (since they are already ensembles), but likely it does for their algorithm.
