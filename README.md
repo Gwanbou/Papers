@@ -22,6 +22,11 @@ Paper Vault
   Chargrid-OCR: End-to-end Trainable Optical Character Recognition for Printed Documents using Instance Segmentation
   ![year](https://img.shields.io/badge/2020-green?style=flat)
   ![auth](https://img.shields.io/badge/Reisswig-red?style=flat)
+- [ ] [:link:](./files/DOX/[2022%20@acl%20Wang]%20LiLT_A%20Simple%20yet%20Effective%20Language-Independent%20Layout%20Transformer%20for%20Structured%20Document%20Understanding.pdf)
+  LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding
+  ![year](https://img.shields.io/badge/2022-green?style=flat)
+  ![auth](https://img.shields.io/badge/Wang-red?style=flat)
+  ![tags](https://img.shields.io/badge/acl-blue?style=flat)
 - [ ] [:link:](./files/DOX/[2023%20@emnlp%20Yu]%20DocumentNet_Bridging%20the%20Data%20Gap%20in%20Document%20Pre-Training.pdf)
   DocumentNet: Bridging the Data Gap in Document Pre-Training
   ![year](https://img.shields.io/badge/2023-green?style=flat)
@@ -54,6 +59,11 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Wan-red?style=flat)
   ![tags](https://img.shields.io/badge/alibaba-blue?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20@aws%20Liao]%20DocTr_Document%20Transformer%20for%20Structured%20Information%20Extraction%20in%20Documents.pdf)
+  DocTr: Document Transformer for Structured Information Extraction in Documents
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Liao-red?style=flat)
+  ![tags](https://img.shields.io/badge/aws-blue?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20@microsoft%20Wang]%20DLAFormer_An%20End-to-End%20Transformer%20For%20Document%20Layout%20Analysis%20.pdf)
   DLAFormer: An End-to-End Transformer For Document Layout Analysis
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -124,6 +134,10 @@ Paper Vault
   DocParseNet: Advanced Semantic Segmentation and OCR Embeddings for Efficient Scanned Document Annotation
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Mohammadshirazi-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Qi]%20ADELIE_Aligning%20Large%20Language%20Models%20on%20Information%20Extraction.pdf)
+  ADELIE: Aligning Large Language Models on Information Extraction
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Qi-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Shehzadi]%20A%20Hybrid%20Approach%20for%20Document%20Layout%20Analysis%20in%20Document%20images.pdf)
   A Hybrid Approach for Document Layout Analysis in Document images
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -509,6 +523,11 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Nvidia-red?style=flat)
   ![tags](https://img.shields.io/badge/nvidia-blue?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20@stanford%20Sun]%20Learning%20to%20(Learn%20at%20Test%20Time)_RNNs%20with%20Expressive%20Hidden%20States.pdf)
+  Learning to (Learn at Test Time): RNNs with Expressive Hidden States
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Sun-red?style=flat)
+  ![tags](https://img.shields.io/badge/stanford-blue?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20Chen]%20How%20Far%20Are%20We%20to%20GPT-4V.%20Closing%20the%20Gap%20to%20Commercial%20Multimodal%20Models%20with%20Open-Source%20Suites.pdf)
   How Far Are We to GPT-4V. Closing the Gap to Commercial Multimodal Models with Open-Source Suites
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -985,6 +1004,10 @@ Paper Vault
   MotherNet: A Foundational Hypernetwork for Tabular Classification
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Muller-red?style=flat)
+- [ ] [:link:](./files/TAB/[2024%20Sui]%20Table%20Meets%20LLM_Can%20Large%20Language%20Models%20Understand%20Structured%20Table%20Data?%20A%20Benchmark%20and%20Empirical%20Study.pdf)
+  Table Meets LLM: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Sui-red?style=flat)
 - [ ] [:link:](./files/TAB/[2024%20Wang]%20Chain-of-Table_Evolving%20Tables%20in%20the%20Reasoning%20Chain%20for%20Table%20Understanding.pdf)
   Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding
   ![year](https://img.shields.io/badge/2024-green?style=flat)
