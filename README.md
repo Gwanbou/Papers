@@ -59,6 +59,11 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Wang-red?style=flat)
   ![tags](https://img.shields.io/badge/acl-blue?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20@alibaba%20Liao]%20DocLayLLM_An%20Efficient%20and%20Effective%20Multi-modal%20Extension%20of%20Large%20Language%20Models%20for%20Text-rich%20Document%20Understanding.pdf)
+  DocLayLLM: An Efficient and Effective Multi-modal Extension of Large Language Models for Text-rich Document Understanding
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Liao-red?style=flat)
+  ![tags](https://img.shields.io/badge/alibaba-blue?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20@alibaba%20Luo]%20LayoutLLM_Layout%20Instruction%20Tuning%20with%20Large%20Language%20Models%20for%20Document%20Understanding.pdf)
   LayoutLLM: Layout Instruction Tuning with Large Language Models for Document Understanding
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -74,6 +79,11 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Liao-red?style=flat)
   ![tags](https://img.shields.io/badge/aws-blue?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20@google%20Perot]%20LMDX_Language%20Model-based%20Document%20Information%20Extraction%20and%20Localization.pdf)
+  LMDX: Language Model-based Document Information Extraction and Localization
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Perot-red?style=flat)
+  ![tags](https://img.shields.io/badge/google-blue?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20@microsoft%20Wang]%20DLAFormer_An%20End-to-End%20Transformer%20For%20Document%20Layout%20Analysis%20.pdf)
   DLAFormer: An End-to-End Transformer For Document Layout Analysis
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -104,6 +114,10 @@ Paper Vault
   LOCOST: State-Space Models for Long Document Abstractive Summarization
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Bronnec-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Constantinou]%20Out-of-Distribution%20Detection%20with%20Attention%20Head%20Masking%20for%20Multimodal%20Document%20Classification.pdf)
+  Out-of-Distribution Detection with Attention Head Masking for Multimodal Document Classification
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Constantinou-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Ding]%20PDF-MVQA_A%20Dataset%20for%20Multimodal%20Information%20Retrieval%20in%20PDF-based%20Visual%20Question%20Answering.pdf)
   PDF-MVQA: A Dataset for Multimodal Information Retrieval in PDF-based Visual Question Answering
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -498,6 +512,11 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/McKinzie-red?style=flat)
   ![tags](https://img.shields.io/badge/apple-blue?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20@cohere%20Ustun]%20Aya%20Model_An%20Instruction%20Finetuned%20%20Open-Access%20Multilingual%20Language%20Model.pdf)
+  Aya Model: An Instruction Finetuned  Open-Access Multilingual Language Model
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Ustun-red?style=flat)
+  ![tags](https://img.shields.io/badge/cohere-blue?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20@google%20#gemini%20Google]%20Gemini%201.5_Unlocking%20multimodal%20understanding%20across%20millions%20of%20tokens%20of%20context.pdf)
   Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -518,6 +537,11 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Sun-red?style=flat)
   ![tags](https://img.shields.io/badge/iclr-blue?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20@microsoft%20Qi]%20Mutual%20Reasoning%20Makes%20Smaller%20LLMs%20Stronger%20Problem-Solvers.pdf)
+  Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Qi-red?style=flat)
+  ![tags](https://img.shields.io/badge/microsoft-blue?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20@microsoft%20Sun]%20You%20Only%20Cache%20Once_Decoder-Decoder%20Architectures%20for%20Language%20Models.pdf)
   You Only Cache Once: Decoder-Decoder Architectures for Language Models
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -546,6 +570,10 @@ Paper Vault
   Octopus v2: On-device language model for super agent
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Chen-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20Doan]%20Vintern-1B_An%20Efficient%20Multimodal%20Large%20Language%20Model%20for%20Vietnamese.pdf)
+  Vintern-1B: An Efficient Multimodal Large Language Model for Vietnamese
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Doan-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20Du]%20Understanding%20Emergent%20Abilities%20of%20Language%20Models%20from%20the%20Loss%20Perspective.pdf)
   Understanding Emergent Abilities of Language Models from the Loss Perspective
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -566,6 +594,14 @@ Paper Vault
   Aligner: Achieving Efficient Alignment through Weak-to-Strong Correction
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Ji-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20Laurencon]%20Building%20and%20better%20understanding%20vision-language%20models_insights%20and%20future%20directions.pdf)
+  Building and better understanding vision-language models: insights and future directions
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Laurencon-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20Lesci]%20Causal%20Estimation%20of%20Memorisation%20Profiles.pdf)
+  Causal Estimation of Memorisation Profiles
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Lesci-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20Ning]%20User-LLM_Efficient%20LLM%20Contextualization%20with%20User%20Embeddings.pdf)
   User-LLM: Efficient LLM Contextualization with User Embeddings
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -1032,6 +1068,10 @@ Paper Vault
   Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Wang-red?style=flat)
+- [ ] [:link:](./files/TAB/[2024%20Wu]%20TableBench_A%20Comprehensive%20and%20Complex%20Benchmark%20for%20Table%20Question%20Answering.pdf)
+  TableBench: A Comprehensive and Complex Benchmark for Table Question Answering
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Wu-red?style=flat)
 - [ ] [:link:](./files/TAB/[2024%20Zhang]%20SMUTF_Schema%20Matching%20Using%20Generative%20Tags%20and%20Hybrid%20Features.pdf)
   SMUTF: Schema Matching Using Generative Tags and Hybrid Features
   ![year](https://img.shields.io/badge/2024-green?style=flat)
