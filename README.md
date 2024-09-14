@@ -425,7 +425,7 @@ Paper Vault
   ![year](https://img.shields.io/badge/2023-green?style=flat)
   ![auth](https://img.shields.io/badge/OpenAI-red?style=flat)
   ![tags](https://img.shields.io/badge/openai-blue?style=flat)
-- [ ] [:link:](./files/NLP/[2023%20@stanford%20#%20dpo%20Rafailov]%20Direct%20Preference%20Optimization_Your%20Language%20Model%20is%20Secretly%20a%20Reward%20Model.pdf)
+- [ ] [:link:](./files/NLP/[2023%20@stanford%20#dpo%20Rafailov]%20Direct%20Preference%20Optimization_Your%20Language%20Model%20is%20Secretly%20a%20Reward%20Model.pdf)
   Direct Preference Optimization: Your Language Model is Secretly a Reward Model
   ![year](https://img.shields.io/badge/2023-green?style=flat)
   ![auth](https://img.shields.io/badge/Rafailov-red?style=flat)
@@ -463,6 +463,10 @@ Paper Vault
   Simplifying Transformer Blocks
   ![year](https://img.shields.io/badge/2023-green?style=flat)
   ![auth](https://img.shields.io/badge/He-red?style=flat)
+- [ ] [:link:](./files/NLP/[2023%20Huang]%20OPERA_Alleviating%20Hallucination%20in%20Multi-Modal%20Large%20Language%20Models%20via%20Over-Trust%20Penalty%20and%20Retrospection-Allocation.pdf)
+  OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation
+  ![year](https://img.shields.io/badge/2023-green?style=flat)
+  ![auth](https://img.shields.io/badge/Huang-red?style=flat)
 - [ ] [:link:](./files/NLP/[2023%20Kaddour]%20Challenges%20and%20Applications%20of%20Large%20Language%20Models.pdf)
   Challenges and Applications of Large Language Models
   ![year](https://img.shields.io/badge/2023-green?style=flat)
@@ -515,6 +519,18 @@ Paper Vault
   A Survey of Large Language Models
   ![year](https://img.shields.io/badge/2023-green?style=flat)
   ![auth](https://img.shields.io/badge/Zhao-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20#finetuning%20Parthasarathy]%20The%20Ultimate%20Guide%20to%20Fine-Tuning%20LLMs%20from%20Basics%20to%20Breakthroughs_An%20Exhaustive%20Review%20of%20Technologies,%20Research,%20Best%20Practices,%20Applied%20Research%20Challenges%20and%20Opportunities.pdf)
+  The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Parthasarathy-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20#preference-learning%20Gao]%20Towards%20a%20Unified%20View%20of%20Preference%20Learning%20for%20Large%20Language%20Models_A%20Survey.pdf)
+  Towards a Unified View of Preference Learning for Large Language Models: A Survey
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Gao-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20#reflection-tuning%20Li]%20Selective%20Reflection-Tuning_Student-Selected%20Data%20Recycling%20for%20LLM%20Instruction-Tuning.pdf)
+  Selective Reflection-Tuning: Student-Selected Data Recycling for LLM Instruction-Tuning
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Li-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20@apple%20McKinzie]%20MM1_Methods,%20Analysis%20&%20Insights%20from%20Multimodal%20LLM%20Pre-training.pdf)
   MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -545,6 +561,11 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Sun-red?style=flat)
   ![tags](https://img.shields.io/badge/iclr-blue?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20@meta%20#reflection-tuning%20Ye]%20Physics%20of%20Language%20Models_Part%202.2,%20How%20to%20Learn%20From%20Mistakes%20on%20Grade-School%20Math%20Problems.pdf)
+  Physics of Language Models: Part 2.2, How to Learn From Mistakes on Grade-School Math Problems
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Ye-red?style=flat)
+  ![tags](https://img.shields.io/badge/meta-blue?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20@microsoft%20Qi]%20Mutual%20Reasoning%20Makes%20Smaller%20LLMs%20Stronger%20Problem-Solvers.pdf)
   Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -614,6 +635,14 @@ Paper Vault
   User-LLM: Efficient LLM Contextualization with User Embeddings
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Ning-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20Tam]%20Let%20Me%20Speak%20Freely.%20A%20Study%20on%20the%20Impact%20of%20Format%20Restrictions%20on%20Performance%20of%20Large%20Language%20Model.pdf)
+  Let Me Speak Freely. A Study on the Impact of Format Restrictions on Performance of Large Language Model
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Tam-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20Wallace]%20The%20Instruction%20Hierarchy_Training%20LLMs%20to%20Prioritize%20Privileged%20Instructions.pdf)
+  The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Wallace-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20Wang]%20One%20Prompt%20is%20not%20Enough_Automated%20Construction%20of%20a%20Mixture-of-Expert%20Prompts.pdf)
   One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -1091,50 +1120,55 @@ Paper Vault
 <!-- AUTOGENERATED_TAB -->
 
 
-## :sunrise: CV and Multimodal Model
+## :sunrise: Multimodal
 
-<!-- AUTOGENERATED_CV -->
-- [ ] [:link:](./files/CV/[2021%20#stable-diff%20Rombach]%20High-Resolution%20Image%20Synthesis%20with%20Latent%20Diffusion%20Models.pdf)
+<!-- AUTOGENERATED_MM -->
+- [ ] [:link:](./files/MM/[2021%20#stable-diff%20Rombach]%20High-Resolution%20Image%20Synthesis%20with%20Latent%20Diffusion%20Models.pdf)
   High-Resolution Image Synthesis with Latent Diffusion Models
   ![year](https://img.shields.io/badge/2021-green?style=flat)
   ![auth](https://img.shields.io/badge/Rombach-red?style=flat)
-- [x] [:link:](./files/CV/[2021%20@google%20#vit%20Dosovitskiy]%20An%20Image%20is%20Worth%2016x16%20Words%20-%20Transformers%20for%20Image%20Recognition%20at%20Scale.pdf)
+- [ ] [:link:](./files/MM/[2021%20@google%20#vit%20Dosovitskiy]%20An%20Image%20is%20Worth%2016x16%20Words%20-%20Transformers%20for%20Image%20Recognition%20at%20Scale.pdf)
   An Image is Worth 16x16 Words - Transformers for Image Recognition at Scale
   ![year](https://img.shields.io/badge/2021-green?style=flat)
   ![auth](https://img.shields.io/badge/Dosovitskiy-red?style=flat)
   ![tags](https://img.shields.io/badge/google-blue?style=flat)
-- [x] [:link:](./files/CV/[2021%20@microsoft%20#swin%20Liu]%20Swin%20Transformer%20-%20Hierarchical%20Vision%20Transformer%20using%20Shifted%20Windows.pdf)
+- [ ] [:link:](./files/MM/[2021%20@microsoft%20#swin%20Liu]%20Swin%20Transformer%20-%20Hierarchical%20Vision%20Transformer%20using%20Shifted%20Windows.pdf)
   Swin Transformer - Hierarchical Vision Transformer using Shifted Windows
   ![year](https://img.shields.io/badge/2021-green?style=flat)
   ![auth](https://img.shields.io/badge/Liu-red?style=flat)
   ![tags](https://img.shields.io/badge/microsoft-blue?style=flat)
-- [x] [:link:](./files/CV/[2021%20@microsoft%20#swin%20Liu]%20Swin%20Transformer%20V2%20-%20Scaling%20Up%20Capacity%20and%20Resolution.pdf)
+- [ ] [:link:](./files/MM/[2021%20@microsoft%20#swin%20Liu]%20Swin%20Transformer%20V2%20-%20Scaling%20Up%20Capacity%20and%20Resolution.pdf)
   Swin Transformer V2 - Scaling Up Capacity and Resolution
   ![year](https://img.shields.io/badge/2021-green?style=flat)
   ![auth](https://img.shields.io/badge/Liu-red?style=flat)
   ![tags](https://img.shields.io/badge/microsoft-blue?style=flat)
-- [ ] [:link:](./files/CV/[2021%20@openai%20#clip%20Radford]%20Learning%20Transferable%20Visual%20Models%20From%20Natural%20Language%20Supervision.pdf)
+- [ ] [:link:](./files/MM/[2021%20@openai%20#clip%20Radford]%20Learning%20Transferable%20Visual%20Models%20From%20Natural%20Language%20Supervision.pdf)
   Learning Transferable Visual Models From Natural Language Supervision
   ![year](https://img.shields.io/badge/2021-green?style=flat)
   ![auth](https://img.shields.io/badge/Radford-red?style=flat)
   ![tags](https://img.shields.io/badge/openai-blue?style=flat)
-- [ ] [:link:](./files/CV/[2022%20#DiT%20#SoRA%20Peebles]%20Scalable%20Diffusion%20Models%20with%20Transformers.pdf)
+- [ ] [:link:](./files/MM/[2022%20#DiT%20#SoRA%20Peebles]%20Scalable%20Diffusion%20Models%20with%20Transformers.pdf)
   Scalable Diffusion Models with Transformers
   ![year](https://img.shields.io/badge/2022-green?style=flat)
   ![auth](https://img.shields.io/badge/Peebles-red?style=flat)
-- [ ] [:link:](./files/CV/[2023%20Bai]%20Sequential%20Modeling%20Enables%20Scalable%20Learning%20for%20Large%20Vision%20Models.pdf)
+- [ ] [:link:](./files/MM/[2023%20Bai]%20Sequential%20Modeling%20Enables%20Scalable%20Learning%20for%20Large%20Vision%20Models.pdf)
   Sequential Modeling Enables Scalable Learning for Large Vision Models
   ![year](https://img.shields.io/badge/2023-green?style=flat)
   ![auth](https://img.shields.io/badge/Bai-red?style=flat)
-- [x] [:link:](./files/CV/[2023%20Li]%20Monkey_Image%20Resolution%20and%20Text%20Label%20Are%20Important%20Things%20for%20Large%20Multi-modal%20Models.pdf)
-  Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models
-  ![year](https://img.shields.io/badge/2023-green?style=flat)
-  ![auth](https://img.shields.io/badge/Li-red?style=flat)
-- [ ] [:link:](./files/CV/[2024%20Cheng]%20YOLO-World_Real-Time%20Open-Vocabulary%20Object%20Detection.pdf)
+- [ ] [:link:](./files/MM/[2024%20@meta%20Bordes]%20An%20Introduction%20to%20Vision-Language%20Modeling.pdf)
+  An Introduction to Vision-Language Modeling
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Bordes-red?style=flat)
+  ![tags](https://img.shields.io/badge/meta-blue?style=flat)
+- [ ] [:link:](./files/MM/[2024%20Cheng]%20YOLO-World_Real-Time%20Open-Vocabulary%20Object%20Detection.pdf)
   YOLO-World: Real-Time Open-Vocabulary Object Detection
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Cheng-red?style=flat)
-<!-- AUTOGENERATED_CV -->
+- [ ] [:link:](./files/MM/[2024%20Fuest]%20Diffusion%20Models%20and%20Representation%20Learning_A%20Survey.pdf)
+  Diffusion Models and Representation Learning: A Survey
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Fuest-red?style=flat)
+<!-- AUTOGENERATED_MM -->
 
 
 ## :spider_web: KG
@@ -1246,10 +1280,6 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/HAI-red?style=flat)
   ![tags](https://img.shields.io/badge/stanford-blue?style=flat)
-- [ ] [:link:](./files/UNSORTED/[2024%20Fuest]%20Diffusion%20Models%20and%20Representation%20Learning_A%20Survey.pdf)
-  Diffusion Models and Representation Learning: A Survey
-  ![year](https://img.shields.io/badge/2024-green?style=flat)
-  ![auth](https://img.shields.io/badge/Fuest-red?style=flat)
 <!-- AUTOGENERATED_UNSORTED -->
 
 
