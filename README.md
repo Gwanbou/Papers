@@ -84,7 +84,7 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Perot-red?style=flat)
   ![tags](https://img.shields.io/badge/google-blue?style=flat)
-- [ ] [:link:](./files/DOX/[2024%20@microsoft%20Wang]%20DLAFormer_An%20End-to-End%20Transformer%20For%20Document%20Layout%20Analysis%20.pdf)
+- [ ] [:link:](./files/DOX/[2024%20@microsoft%20Wang]%20DLAFormer_An%20End-to-End%20Transformer%20For%20Document%20Layout%20Analysis.pdf)
   DLAFormer: An End-to-End Transformer For Document Layout Analysis
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Wang-red?style=flat)
@@ -134,7 +134,7 @@ Paper Vault
   M3T: A New Benchmark Dataset for Multi-Modal Document-Level Machine Translation
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Hsu-red?style=flat)
-- [ ] [:link:](./files/DOX/[2024%20Hui]%20UDA_A%20Benchmark%20Suite%20for%20Retrieval%20Augmented%20Generation%20in%20Real-world%20Document%20Analysis%20.pdf)
+- [ ] [:link:](./files/DOX/[2024%20Hui]%20UDA_A%20Benchmark%20Suite%20for%20Retrieval%20Augmented%20Generation%20in%20Real-world%20Document%20Analysis.pdf)
   UDA: A Benchmark Suite for Retrieval Augmented Generation in Real-world Document Analysis
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Hui-red?style=flat)
