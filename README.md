@@ -142,6 +142,10 @@ Paper Vault
   Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Li-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Liu]%20Fox_Focus%20Anywhere%20for%20Fine-grained%20Multi-page%20Document%20Understanding.pdf)
+  Fox: Focus Anywhere for Fine-grained Multi-page Document Understanding
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Liu-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Liu]%20TextMonkey_An%20OCR-Free%20Large%20Multimodal%20Model%20for%20Understanding%20Document.pdf)
   TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -182,6 +186,10 @@ Paper Vault
   DocKylin: A Large Multimodal Model for Visual Document Understanding with Efficient Visual Slimming
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Zhang-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Zhao]%20TabPedia_Towards%20Comprehensive%20Visual%20Table%20Understanding%20with%20Concept%20Synergy.pdf)
+  TabPedia: Towards Comprehensive Visual Table Understanding with Concept Synergy
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Zhao-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Zmigrod]%20BuDDIE_A%20Business%20Document%20Dataset%20for%20Multi-task%20Information%20Extraction.pdf)
   BuDDIE: A Business Document Dataset for Multi-task Information Extraction
   ![year](https://img.shields.io/badge/2024-green?style=flat)
