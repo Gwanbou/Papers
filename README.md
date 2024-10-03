@@ -49,6 +49,10 @@ Paper Vault
   UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning
   ![year](https://img.shields.io/badge/2023-green?style=flat)
   ![auth](https://img.shields.io/badge/Masry-red?style=flat)
+- [ ] [:link:](./files/DOX/[2023%20Ozyurt]%20Document-Level%20In-Context%20Few-Shot%20Relation%20Extraction%20via%20Pre-Trained%20Language%20Models.pdf)
+  Document-Level In-Context Few-Shot Relation Extraction via Pre-Trained Language Models
+  ![year](https://img.shields.io/badge/2023-green?style=flat)
+  ![auth](https://img.shields.io/badge/Ozyurt-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20@acl%20Li]%20Hypergraph%20based%20Understanding%20for%20Document%20Semantic%20Entity%20Recognition.pdf)
   Hypergraph based Understanding for Document Semantic Entity Recognition
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -114,6 +118,10 @@ Paper Vault
   LOCOST: State-Space Models for Long Document Abstractive Summarization
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Bronnec-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Choi]%20Model-based%20Preference%20Optimization%20in%20Abstractive%20Summarization%20without%20Human%20Feedback.pdf)
+  Model-based Preference Optimization in Abstractive Summarization without Human Feedback
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Choi-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Constantinou]%20Out-of-Distribution%20Detection%20with%20Attention%20Head%20Masking%20for%20Multimodal%20Document%20Classification.pdf)
   Out-of-Distribution Detection with Attention Head Masking for Multimodal Document Classification
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -144,6 +152,10 @@ Paper Vault
   ![auth](https://img.shields.io/badge/Li-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Liu]%20Fox_Focus%20Anywhere%20for%20Fine-grained%20Multi-page%20Document%20Understanding.pdf)
   Fox: Focus Anywhere for Fine-grained Multi-page Document Understanding
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Liu-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Liu]%20See%20then%20Tell_Enhancing%20Key%20Information%20Extraction%20with%20Vision%20Grounding.pdf)
+  See then Tell: Enhancing Key Information Extraction with Vision Grounding
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Liu-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Liu]%20TextMonkey_An%20OCR-Free%20Large%20Multimodal%20Model%20for%20Understanding%20Document.pdf)
