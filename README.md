@@ -24,6 +24,10 @@ Paper Vault
   ![year](https://img.shields.io/badge/2020-green?style=flat)
   ![auth](https://img.shields.io/badge/Reisswig-red?style=flat)
   ![tags](https://img.shields.io/badge/sap-blue?style=flat)
+- [ ] [:link:](./files/DOX/[2020%20Li]%20A%20Survey%20on%20Deep%20Learning%20for%20Named%20Entity%20Recognition.pdf)
+  A Survey on Deep Learning for Named Entity Recognition
+  ![year](https://img.shields.io/badge/2020-green?style=flat)
+  ![auth](https://img.shields.io/badge/Li-red?style=flat)
 - [ ] [:link:](./files/DOX/[2021%20@microsoft%20Li]%20TrOCR_Transformer-based%20Optical%20Character%20Recognition%20with%20Pre-trained%20Models.pdf)
   TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models
   ![year](https://img.shields.io/badge/2021-green?style=flat)
@@ -555,10 +559,6 @@ Paper Vault
   Atlas: Few-shot Learning with Retrieval Augmented Language Models
   ![year](https://img.shields.io/badge/2022-green?style=flat)
   ![auth](https://img.shields.io/badge/Izacard-red?style=flat)
-- [ ] [:link:](./files/NLP/[2022%20Siriwardhana]%20Improving%20the%20Domain%20Adaptation%20of%20Retrieval%20Augmented%20Generation%20(RAG)%20Models%20for%20Open%20Domain%20Question%20Answering.pdf)
-  Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering
-  ![year](https://img.shields.io/badge/2022-green?style=flat)
-  ![auth](https://img.shields.io/badge/Siriwardhana-red?style=flat)
 - [ ] [:link:](./files/NLP/[2023%20@cmu%20Liu]%20Pre-train,%20Prompt,%20and%20Predict_A%20Systematic%20Survey%20of%20Prompting%20Methods%20in%20Natural%20Language%20Processing.pdf)
   Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing
   ![year](https://img.shields.io/badge/2023-green?style=flat)
@@ -969,6 +969,10 @@ Paper Vault
   ![auth](https://img.shields.io/badge/Wang-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20Zhang]%20In-Context%20Principle%20Learning%20from%20Mistakes.pdf)
   In-Context Principle Learning from Mistakes
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Zhang-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20Zhang]%20Rethinking%20the%20Evaluation%20of%20Pre-trained%20Text-and-Layout%20Models%20from%20an%20Entity-Centric%20Perspective.pdf)
+  Rethinking the Evaluation of Pre-trained Text-and-Layout Models from an Entity-Centric Perspective
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Zhang-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20Zhao]%20A%20Survey%20of%20Large%20Language%20Models.pdf)
@@ -1402,8 +1406,8 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Zheng-red?style=flat)
   ![tags](https://img.shields.io/badge/acl-blue?style=flat)
-- [ ] [:link:](./files/TAB/[2024%20@amazon%20Fang]%20Large%20Language%20Models(LLMs)%20on%20Tabular%20Data-%20Prediction,%20Generation,%20and%20Understanding%20-%20A%20Survey.pdf)
-  Large Language Models(LLMs) on Tabular Data- Prediction, Generation, and Understanding - A Survey
+- [ ] [:link:](./files/TAB/[2024%20@amazon%20Fang]%20Large%20Language%20Models%20on%20Tabular%20Data%20-%20A%20Survey.pdf)
+  Large Language Models on Tabular Data - A Survey
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Fang-red?style=flat)
   ![tags](https://img.shields.io/badge/amazon-blue?style=flat)
@@ -1532,6 +1536,10 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Zong-red?style=flat)
   ![tags](https://img.shields.io/badge/mmlab-blue?style=flat)
+- [ ] [:link:](./files/MM/[2024%20Chen]%20Next%20Token%20Prediction%20Towards%20Multimodal%20Intelligence_A%20Comprehensive%20Survey.pdf)
+  Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Chen-red?style=flat)
 - [ ] [:link:](./files/MM/[2024%20Cheng]%20YOLO-World_Real-Time%20Open-Vocabulary%20Object%20Detection.pdf)
   YOLO-World: Real-Time Open-Vocabulary Object Detection
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -1548,6 +1556,10 @@ Paper Vault
   Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Gou-red?style=flat)
+- [ ] [:link:](./files/MM/[2024%20Masry]%20ChartInstruct_Instruction%20Tuning%20for%20Chart%20Comprehension%20and%20Reasoning.pdf)
+  ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Masry-red?style=flat)
 - [ ] [:link:](./files/MM/[2024%20Wang]%20Qwen2-VL_Enhancing%20Vision-Language%20Model’s%20Perception%20of%20the%20World%20at%20Any%20Resolution.pdf)
   Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution
   ![year](https://img.shields.io/badge/2024-green?style=flat)
