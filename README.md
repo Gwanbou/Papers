@@ -283,6 +283,10 @@ Paper Vault
   LOCOST: State-Space Models for Long Document Abstractive Summarization
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Bronnec-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Cho]%20M3DocRAG_Multi-modal%20Retrieval%20is%20What%20You%20Need%20for%20Multi-page%20Multi-document%20Understanding.pdf)
+  M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Cho-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Choi]%20Model-based%20Preference%20Optimization%20in%20Abstractive%20Summarization%20without%20Human%20Feedback.pdf)
   Model-based Preference Optimization in Abstractive Summarization without Human Feedback
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -291,6 +295,10 @@ Paper Vault
   Out-of-Distribution Detection with Attention Head Masking for Multimodal Document Classification
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Constantinou-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Deng]%20LongDocURL_a%20Comprehensive%20Multimodal%20Long%20Document%20Benchmark%20Integrating%20Understanding,%20Reasoning,%20and%20Locating.pdf)
+  LongDocURL: a Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Deng-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Ding]%20PDF-MVQA_A%20Dataset%20for%20Multimodal%20Information%20Retrieval%20in%20PDF-based%20Visual%20Question%20Answering.pdf)
   PDF-MVQA: A Dataset for Multimodal Information Retrieval in PDF-based Visual Question Answering
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -303,10 +311,18 @@ Paper Vault
   mOSCAR: A Large-scale Multilingual and Multimodal Document-level Corpus
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Futeral-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20He]%20DR-RAG_Applying%20Dynamic%20Document%20Relevance%20to%20RetrievalAugmented%20Generation%20for%20Question-Answering.pdf)
+  DR-RAG: Applying Dynamic Document Relevance to RetrievalAugmented Generation for Question-Answering
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/He-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Hsu]%20M3T_A%20New%20Benchmark%20Dataset%20for%20Multi-Modal%20Document-Level%20Machine%20Translation.pdf)
   M3T: A New Benchmark Dataset for Multi-Modal Document-Level Machine Translation
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Hsu-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Hu]%20mPLUG-DocOwl2_High-resolution%20Compressing%20for%20OCR-free%20Multi-page%20Document%20Understanding.pdf)
+  mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Hu-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Hui]%20UDA_A%20Benchmark%20Suite%20for%20Retrieval%20Augmented%20Generation%20in%20Real-world%20Document%20Analysis.pdf)
   UDA: A Benchmark Suite for Retrieval Augmented Generation in Real-world Document Analysis
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -363,6 +379,10 @@ Paper Vault
   DocKylin: A Large Multimodal Model for Visual Document Understanding with Efficient Visual Slimming
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Zhang-red?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20Zhang]%20SAIL_Sample-Centric%20In-Context%20Learning%20for%20Document%20Information%20Extraction.pdf)
+  SAIL: Sample-Centric In-Context Learning for Document Information Extraction
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Zhang-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Zhao]%20TabPedia_Towards%20Comprehensive%20Visual%20Table%20Understanding%20with%20Concept%20Synergy.pdf)
   TabPedia: Towards Comprehensive Visual Table Understanding with Concept Synergy
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -375,6 +395,34 @@ Paper Vault
   BuDDIE: A Business Document Dataset for Multi-task Information Extraction
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Zmigrod-red?style=flat)
+- [ ] [:link:](./files/DOX/[2025%20@iclr%20Chen]%20Graph-based%20Document%20Structure%20Analysis.pdf)
+  Graph-based Document Structure Analysis
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Chen-red?style=flat)
+  ![tags](https://img.shields.io/badge/iclr-blue?style=flat)
+- [ ] [:link:](./files/DOX/[2025%20@iclr%20Chen]%20LoRA-Contextualizing%20Adaptation%20of%20Large%20Multimodal%20Models%20for%20Multi-page%20Document%20Understanding.pdf)
+  LoRA-Contextualizing Adaptation of Large Multimodal Models for Multi-page Document Understanding
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Chen-red?style=flat)
+  ![tags](https://img.shields.io/badge/iclr-blue?style=flat)
+- [ ] [:link:](./files/DOX/[2025%20@iclr%20Huang]%20Mini-Monkey_Alleviating%20the%20Semantic%20Sawtooth%20Effect%20for%20Lightweight%20MLLMs%20via%20Complementary%20Image%20Pyramid.pdf)
+  Mini-Monkey: Alleviating the Semantic Sawtooth Effect for Lightweight MLLMs via Complementary Image Pyramid
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Huang-red?style=flat)
+  ![tags](https://img.shields.io/badge/iclr-blue?style=flat)
+- [ ] [:link:](./files/DOX/[2025%20@iclr%20Zhu]%20Enhancing%20Document%20Understanding%20with%20Group%20Position%20Embedding_A%20Novel%20Approach%20to%20Incorporate%20Layout%20Information.pdf)
+  Enhancing Document Understanding with Group Position Embedding: A Novel Approach to Incorporate Layout Information
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Zhu-red?style=flat)
+  ![tags](https://img.shields.io/badge/iclr-blue?style=flat)
+- [ ] [:link:](./files/DOX/[2025%20Suri]%20VisDoM_Multi-Document%20QA%20with%20Visually%20Rich%20Elements%20Using%20Multimodal%20Retrieval-Augmented%20Generation.pdf)
+  VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Suri-red?style=flat)
+- [ ] [:link:](./files/DOX/[2025%20Xie]%20PDF-WuKong_A%20Large%20Multimodal%20Model%20for%20Efficient%20Long%20PDF%20Reading%20with%20End-to-End%20Sparse%20Sampling.pdf)
+  PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Xie-red?style=flat)
 <!-- AUTOGENERATED_DOX -->
 
 
@@ -559,6 +607,10 @@ Paper Vault
   Atlas: Few-shot Learning with Retrieval Augmented Language Models
   ![year](https://img.shields.io/badge/2022-green?style=flat)
   ![auth](https://img.shields.io/badge/Izacard-red?style=flat)
+- [ ] [:link:](./files/NLP/[2023%20#agent%20Shinn]%20Reflexion_Language%20Agents%20with%20Verbal%20Reinforcement%20Learning.pdf)
+  Reflexion: Language Agents with Verbal Reinforcement Learning
+  ![year](https://img.shields.io/badge/2023-green?style=flat)
+  ![auth](https://img.shields.io/badge/Shinn-red?style=flat)
 - [ ] [:link:](./files/NLP/[2023%20@cmu%20Liu]%20Pre-train,%20Prompt,%20and%20Predict_A%20Systematic%20Survey%20of%20Prompting%20Methods%20in%20Natural%20Language%20Processing.pdf)
   Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing
   ![year](https://img.shields.io/badge/2023-green?style=flat)
@@ -685,6 +737,10 @@ Paper Vault
   ChatGPT's One-year Anniversary: Are Open-Source Large Language Models Catching up
   ![year](https://img.shields.io/badge/2023-green?style=flat)
   ![auth](https://img.shields.io/badge/Chen-red?style=flat)
+- [ ] [:link:](./files/NLP/[2023%20Chen]%20Understanding%20Retrieval%20Augmentation%20for%20Long-Form%20Question%20Answering.pdf)
+  Understanding Retrieval Augmentation for Long-Form Question Answering
+  ![year](https://img.shields.io/badge/2023-green?style=flat)
+  ![auth](https://img.shields.io/badge/Chen-red?style=flat)
 - [ ] [:link:](./files/NLP/[2023%20Gao]%20Retrieval-Augmented%20Generation%20for%20Large%20Language%20Models_A%20Survey.pdf)
   Retrieval-Augmented Generation for Large Language Models: A Survey
   ![year](https://img.shields.io/badge/2023-green?style=flat)
@@ -757,6 +813,10 @@ Paper Vault
   Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering
   ![year](https://img.shields.io/badge/2023-green?style=flat)
   ![auth](https://img.shields.io/badge/Siriwardhana-red?style=flat)
+- [ ] [:link:](./files/NLP/[2023%20Xu]%20Retrieval%20Meets%20Long%20Context%20Large%20Language%20Models.pdf)
+  Retrieval Meets Long Context Large Language Models
+  ![year](https://img.shields.io/badge/2023-green?style=flat)
+  ![auth](https://img.shields.io/badge/Xu-red?style=flat)
 - [ ] [:link:](./files/NLP/[2023%20Yao]%20Tree%20of%20Thoughts_Deliberate%20Problem%20Solving%20with%20Large%20Language%20Models.pdf)
   Tree of Thoughts: Deliberate Problem Solving with Large Language Models
   ![year](https://img.shields.io/badge/2023-green?style=flat)
@@ -769,6 +829,26 @@ Paper Vault
   A Survey of Large Language Models
   ![year](https://img.shields.io/badge/2023-green?style=flat)
   ![auth](https://img.shields.io/badge/Zhao-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20#agent%20Fourney]%20Magentic-One_A%20Generalist%20Multi-Agent%20System%20for%20Solving%20Complex%20Tasks.pdf)
+  Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Fourney-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20#agent%20Liu]%20Large%20Language%20Model-Based%20Agents%20for%20Software%20Engineering_A%20Survey.pdf)
+  Large Language Model-Based Agents for Software Engineering: A Survey
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Liu-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20#agent%20Raad]%20Scaling%20Instructable%20Agents%20Across%20Many%20Simulated%20Worlds.pdf)
+  Scaling Instructable Agents Across Many Simulated Worlds
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Raad-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20#agent%20Wu]%20ReFT_Representation%20Finetuning%20for%20Language%20Models.pdf)
+  ReFT: Representation Finetuning for Language Models
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Wu-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20#agent%20Zhuge]%20Agent-as-a-Judge_Evaluate%20Agents%20with%20Agents.pdf)
+  Agent-as-a-Judge: Evaluate Agents with Agents
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Zhuge-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20#finetuning%20Parthasarathy]%20The%20Ultimate%20Guide%20to%20Fine-Tuning%20LLMs%20from%20Basics%20to%20Breakthroughs_An%20Exhaustive%20Review%20of%20Technologies,%20Research,%20Best%20Practices,%20Applied%20Research%20Challenges%20and%20Opportunities.pdf)
   The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -947,6 +1027,10 @@ Paper Vault
   Graph Retrieval-Augmented Generation: A Survey
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Peng-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20Sarthi]%20RAPTOR_Recursive%20Abstractive%20Processing%20for%20Tree-Organized%20Retrieval.pdf)
+  RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Sarthi-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20Sprague]%20To%20CoT%20or%20not%20to%20CoT?%20Chain-of-thought%20helps%20mainly%20on%20math%20and%20symbolic%20reasoning.pdf)
   To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -963,12 +1047,20 @@ Paper Vault
   One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Wang-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20Wang]%20Qwen2-VL_Enhancing%20Vision-Language%20Model’s%20Perception%20of%20the%20World%20at%20AnyResolution.pdf)
+  Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at AnyResolution
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Wang-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20Wang]%20SeaEval%20for%20Multilingual%20Foundation%20Models_From%20Cross-Lingual%20Alignment%20to%20Cultural%20Reasoning.pdf)
   SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Wang-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20Zhang]%20In-Context%20Principle%20Learning%20from%20Mistakes.pdf)
   In-Context Principle Learning from Mistakes
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Zhang-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20Zhang]%20RAFT_Adapting%20Language%20Model%20to%20Domain%20Specific%20RAG.pdf)
+  RAFT: Adapting Language Model to Domain Specific RAG
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Zhang-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20Zhang]%20Rethinking%20the%20Evaluation%20of%20Pre-trained%20Text-and-Layout%20Models%20from%20an%20Entity-Centric%20Perspective.pdf)
@@ -979,6 +1071,26 @@ Paper Vault
   A Survey of Large Language Models
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Zhao-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20lee]%20Quantifying%20Positional%20Biases%20in%20Text%20Embedding%20Models.pdf)
+  Quantifying Positional Biases in Text Embedding Models
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/lee-red?style=flat)
+- [ ] [:link:](./files/NLP/[2025%20Casper]%20The%20AI%20Agent%20Index.pdf)
+  The AI Agent Index
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Casper-red?style=flat)
+- [ ] [:link:](./files/NLP/[2025%20Cetin]%20An%20Evolved%20Universal%20Transformer%20Memory.pdf)
+  An Evolved Universal Transformer Memory
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Cetin-red?style=flat)
+- [ ] [:link:](./files/NLP/[2025%20Wu]%20CollabLLM_From%20Passive%20Responders%20to%20Active%20Collaborators.pdf)
+  CollabLLM: From Passive Responders to Active Collaborators
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Wu-red?style=flat)
+- [ ] [:link:](./files/NLP/[2025]%20DeepSeek_R1.pdf)
+  DeepSeek: R1
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/[2025-red?style=flat)
 <!-- AUTOGENERATED_NLP -->
 
 
@@ -1536,6 +1648,10 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Zong-red?style=flat)
   ![tags](https://img.shields.io/badge/mmlab-blue?style=flat)
+- [ ] [:link:](./files/MM/[2024%20Chen]%20Expanding%20Performance%20Boundaries%20of%20Open-Source%20Multimodal%20Models%20with%20Model,%20Data,%20and%20Test-Time%20Scaling.pdf)
+  Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Chen-red?style=flat)
 - [ ] [:link:](./files/MM/[2024%20Chen]%20Next%20Token%20Prediction%20Towards%20Multimodal%20Intelligence_A%20Comprehensive%20Survey.pdf)
   Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -1552,6 +1668,10 @@ Paper Vault
   Diffusion Models and Representation Learning: A Survey
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Fuest-red?style=flat)
+- [ ] [:link:](./files/MM/[2024%20Gao]%20Mini-InternVL_A%20Flexible-Transfer%20Pocket%20Multimodal%20Model%20with%205%%20Parameters%20and%2090%%20Performance.pdf)
+  Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Gao-red?style=flat)
 - [ ] [:link:](./files/MM/[2024%20Gou]%20Eyes%20Closed,%20Safety%20On_Protecting%20Multimodal%20LLMs%20via%20Image-to-Text%20Transformation.pdf)
   Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -1560,6 +1680,10 @@ Paper Vault
   ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Masry-red?style=flat)
+- [ ] [:link:](./files/MM/[2024%20Wang]%20Chain-of-Thought%20Reasoning%20Without%20Prompting.pdf)
+  Chain-of-Thought Reasoning Without Prompting
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Wang-red?style=flat)
 - [ ] [:link:](./files/MM/[2024%20Wang]%20Qwen2-VL_Enhancing%20Vision-Language%20Model’s%20Perception%20of%20the%20World%20at%20Any%20Resolution.pdf)
   Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution
   ![year](https://img.shields.io/badge/2024-green?style=flat)
