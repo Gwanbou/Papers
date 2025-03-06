@@ -303,10 +303,6 @@ Paper Vault
   PDF-MVQA: A Dataset for Multimodal Information Retrieval in PDF-based Visual Question Answering
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Ding-red?style=flat)
-- [ ] [:link:](./files/DOX/[2024%20Faysse]%20ColPali_Efficient%20Document%20Retrieval%20with%20Vision%20Language%20Models.pdf)
-  ColPali: Efficient Document Retrieval with Vision Language Models
-  ![year](https://img.shields.io/badge/2024-green?style=flat)
-  ![auth](https://img.shields.io/badge/Faysse-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Futeral]%20mOSCAR_A%20Large-scale%20Multilingual%20and%20Multimodal%20Document-level%20Corpus.pdf)
   mOSCAR: A Large-scale Multilingual and Multimodal Document-level Corpus
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -1714,10 +1710,6 @@ Paper Vault
   YOLO-World: Real-Time Open-Vocabulary Object Detection
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Cheng-red?style=flat)
-- [ ] [:link:](./files/MM/[2024%20Faysse]%20ColPali_Efficient%20Document%20Retrieval%20with%20Vision%20Language%20Models.pdf)
-  ColPali: Efficient Document Retrieval with Vision Language Models
-  ![year](https://img.shields.io/badge/2024-green?style=flat)
-  ![auth](https://img.shields.io/badge/Faysse-red?style=flat)
 - [ ] [:link:](./files/MM/[2024%20Fuest]%20Diffusion%20Models%20and%20Representation%20Learning_A%20Survey.pdf)
   Diffusion Models and Representation Learning: A Survey
   ![year](https://img.shields.io/badge/2024-green?style=flat)
