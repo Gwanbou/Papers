@@ -43,6 +43,11 @@ Paper Vault
   ![year](https://img.shields.io/badge/2022-green?style=flat)
   ![auth](https://img.shields.io/badge/Wang-red?style=flat)
   ![tags](https://img.shields.io/badge/acl-blue?style=flat)
+- [ ] [:link:](./files/DOX/[2022%20@ibm%20Pfitzmann]%20DocLayNet_A%20Large%20Human-Annotated%20Dataset%20for%20Document-Layout%20Analysis.pdf)
+  DocLayNet: A Large Human-Annotated Dataset for Document-Layout Analysis
+  ![year](https://img.shields.io/badge/2022-green?style=flat)
+  ![auth](https://img.shields.io/badge/Pfitzmann-red?style=flat)
+  ![tags](https://img.shields.io/badge/ibm-blue?style=flat)
 - [ ] [:link:](./files/DOX/[2023%20@acl%20Ren]%20Retrieve-and-Sample_Document-level%20Event%20Argument%20Extraction%20via%20Hybrid%20Retrieval%20Augmentation.pdf)
   Retrieve-and-Sample: Document-level Event Argument Extraction via Hybrid Retrieval Augmentation
   ![year](https://img.shields.io/badge/2023-green?style=flat)
@@ -414,6 +419,11 @@ Paper Vault
   ![year](https://img.shields.io/badge/2025-green?style=flat)
   ![auth](https://img.shields.io/badge/GraniteVision-red?style=flat)
   ![tags](https://img.shields.io/badge/ibm-blue?style=flat)
+- [ ] [:link:](./files/DOX/[2025%20@ibm%20Nassar]%20SmolDocling_An%20ultra-compact%20vision-language%20model%20for%20end-to-end%20multi-modal%20document%20conversion.pdf)
+  SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Nassar-red?style=flat)
+  ![tags](https://img.shields.io/badge/ibm-blue?style=flat)
 - [ ] [:link:](./files/DOX/[2025%20@ibm%20Wasserman]%20REAL-MM-RAG_A%20Real-World%20Multi-Modal%20Retrieval%20Benchmark.pdf)
   REAL-MM-RAG: A Real-World Multi-Modal Retrieval Benchmark
   ![year](https://img.shields.io/badge/2025-green?style=flat)
@@ -470,6 +480,14 @@ Paper Vault
   KIEval: Evaluation Metric for Document Key Information Extraction
   ![year](https://img.shields.io/badge/2025-green?style=flat)
   ![auth](https://img.shields.io/badge/Khang-red?style=flat)
+- [ ] [:link:](./files/DOX/[2025%20Le]%20QID_Efficient%20Query-Informed%20ViTs%20in%20Data-Scarce%20Regimes%20for%20OCR-free%20Visual%20Document%20Understanding.pdf)
+  QID: Efficient Query-Informed ViTs in Data-Scarce Regimes for OCR-free Visual Document Understanding
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Le-red?style=flat)
+- [ ] [:link:](./files/DOX/[2025%20Ouyang]%20OmniDocBench_Benchmarking%20Diverse%20PDF%20Document%20Parsing%20with%20Comprehensive%20Annotations.pdf)
+  OmniDocBench: Benchmarking Diverse PDF Document Parsing with Comprehensive Annotations
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Ouyang-red?style=flat)
 - [ ] [:link:](./files/DOX/[2025%20Poznanski]%20olmOCR_Unlocking%20Trillions%20of%20Tokens%20in%20PDFs%20with%20Vision%20Language%20Models.pdf)
   olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language Models
   ![year](https://img.shields.io/badge/2025-green?style=flat)
@@ -997,6 +1015,11 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Ye-red?style=flat)
   ![tags](https://img.shields.io/badge/meta-blue?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20@meta%20Hao]%20Training%20Large%20Language%20Models%20to%20Reason%20in%20a%20Continuous%20Latent%20Space.pdf)
+  Training Large Language Models to Reason in a Continuous Latent Space
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Hao-red?style=flat)
+  ![tags](https://img.shields.io/badge/meta-blue?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20@microsoft%20Qi]%20Mutual%20Reasoning%20Makes%20Smaller%20LLMs%20Stronger%20Problem-Solvers.pdf)
   Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -1054,6 +1077,10 @@ Paper Vault
   Understanding Emergent Abilities of Language Models from the Loss Perspective
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Du-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20Durante]%20Agent%20AI_Surveying%20the%20Horizons%20of%20Multimodal%20Interaction.pdf)
+  Agent AI: Surveying the Horizons of Multimodal Interaction
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Durante-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20Edge]%20From%20Local%20to%20Global_A%20Graph%20RAG%20Approach%20to%20Query-Focused%20Summarization.pdf)
   From Local to Global: A Graph RAG Approach to Query-Focused Summarization
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -1138,6 +1165,16 @@ Paper Vault
   Quantifying Positional Biases in Text Embedding Models
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/lee-red?style=flat)
+- [ ] [:link:](./files/NLP/[2025%20@iclr%20Muennighoff]%20OLMoE_Open%20Mixture-of-Experts%20Language%20Models.pdf)
+  OLMoE: Open Mixture-of-Experts Language Models
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Muennighoff-red?style=flat)
+  ![tags](https://img.shields.io/badge/iclr-blue?style=flat)
+- [ ] [:link:](./files/NLP/[2025%20@meta%20Golovneva]%20Multi-Token%20Attention.pdf)
+  Multi-Token Attention
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Golovneva-red?style=flat)
+  ![tags](https://img.shields.io/badge/meta-blue?style=flat)
 - [ ] [:link:](./files/NLP/[2025%20Casper]%20The%20AI%20Agent%20Index.pdf)
   The AI Agent Index
   ![year](https://img.shields.io/badge/2025-green?style=flat)
@@ -1257,6 +1294,10 @@ Paper Vault
   Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Gou-red?style=flat)
+- [ ] [:link:](./files/MM/[2024%20Lin]%20MoE-LLaVA_Mixture%20of%20Experts%20for%20Large%20Vision-Language%20Models.pdf)
+  MoE-LLaVA: Mixture of Experts for Large Vision-Language Models
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Lin-red?style=flat)
 - [ ] [:link:](./files/MM/[2024%20Masry]%20ChartInstruct_Instruction%20Tuning%20for%20Chart%20Comprehension%20and%20Reasoning.pdf)
   ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -1273,15 +1314,36 @@ Paper Vault
   VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Yu-red?style=flat)
+- [ ] [:link:](./files/MM/[2025%20#kimi%20KimiTeam]%20Kimi-VL%20Technical%20Report.pdf)
+  Kimi-VL Technical Report
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/KimiTeam-red?style=flat)
+- [ ] [:link:](./files/MM/[2025%20@microsoft%20Li]%20Imagine%20while%20Reasoning%20in%20Space_Multimodal%20Visualization-of-Thought.pdf)
+  Imagine while Reasoning in Space: Multimodal Visualization-of-Thought
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Li-red?style=flat)
+  ![tags](https://img.shields.io/badge/microsoft-blue?style=flat)
 - [ ] [:link:](./files/MM/[2025%20@microsoft%20Yang]%20Magma_A%20Foundation%20Model%20for%20Multimodal%20AI%20Agents.pdf)
   Magma: A Foundation Model for Multimodal AI Agents
   ![year](https://img.shields.io/badge/2025-green?style=flat)
   ![auth](https://img.shields.io/badge/Yang-red?style=flat)
   ![tags](https://img.shields.io/badge/microsoft-blue?style=flat)
+- [ ] [:link:](./files/MM/[2025%20Lu]%20InternVL-X_Advancing%20and%20Accelerating%20InternVL%20Series%20with%20Efficient%20Visual%20Token%20Compression.pdf)
+  InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Lu-red?style=flat)
+- [ ] [:link:](./files/MM/[2025%20QwenTeam]%20Qwen2.5-Omni%20Technical%20Report.pdf)
+  Qwen2.5-Omni Technical Report
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/QwenTeam-red?style=flat)
 - [ ] [:link:](./files/MM/[2025%20Qwen]%20Qwen2.5-VL%20Technical%20Report.pdf)
   Qwen2.5-VL Technical Report
   ![year](https://img.shields.io/badge/2025-green?style=flat)
   ![auth](https://img.shields.io/badge/Qwen-red?style=flat)
+- [ ] [:link:](./files/MM/[2025%20Zhu]%20InternVL3_Exploring%20Advanced%20Training%20and%20Test-Time%20Recipes%20for%20Open-Source%20Multimodal%20Models.pdf)
+  InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Zhu-red?style=flat)
 <!-- AUTOGENERATED_MM -->
 
 ## :inbox_tray: UNSORTED
