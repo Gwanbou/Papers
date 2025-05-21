@@ -98,6 +98,10 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Wang-red?style=flat)
   ![tags](https://img.shields.io/badge/aaai-blue?style=flat)
+- [ ] [:link:](./files/DOX/[2024%20@aaai%20Zhang]%20DocKylin_A%20Large%20Multimodal%20Model%20for%20Visual%20Document%20Understanding%20with%20Efficient%20Visual%20Slimming.pdf)
+  DocKylin: A Large Multimodal Model for Visual Document Understanding with Efficient Visual Slimming
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Zhang-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20@acl%20@cohere%20Wang]%20DAPR_A%20Benchmark%20on%20Document-Aware%20Passage%20Retrieval.pdf)
   DAPR: A Benchmark on Document-Aware Passage Retrieval
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -389,10 +393,6 @@ Paper Vault
   TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Yu-red?style=flat)
-- [ ] [:link:](./files/DOX/[2024%20Zhang]%20DocKylin_A%20Large%20Multimodal%20Model%20for%20Visual%20Document%20Understanding%20with%20Efficient%20Visual%20Slimming.pdf)
-  DocKylin: A Large Multimodal Model for Visual Document Understanding with Efficient Visual Slimming
-  ![year](https://img.shields.io/badge/2024-green?style=flat)
-  ![auth](https://img.shields.io/badge/Zhang-red?style=flat)
 - [ ] [:link:](./files/DOX/[2024%20Zhang]%20SAIL_Sample-Centric%20In-Context%20Learning%20for%20Document%20Information%20Extraction.pdf)
   SAIL: Sample-Centric In-Context Learning for Document Information Extraction
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -409,6 +409,11 @@ Paper Vault
   BuDDIE: A Business Document Dataset for Multi-task Information Extraction
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Zmigrod-red?style=flat)
+- [ ] [:link:](./files/DOX/[2025%20@aaai%20Liskavets]%20Prompt%20Compression%20with%20Context-Aware%20Sentence%20Encoding%20for%20Fast%20and%20Improved%20LLM%20Inference.pdf)
+  Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Liskavets-red?style=flat)
+  ![tags](https://img.shields.io/badge/aaai-blue?style=flat)
 - [ ] [:link:](./files/DOX/[2025%20@baidu%20Ni]%20PP-DocBee_Improving%20Multimodal%20Document%20Understanding%20Through%20a%20Bag%20of%20Tricks.pdf)
   PP-DocBee: Improving Multimodal Document Understanding Through a Bag of Tricks
   ![year](https://img.shields.io/badge/2025-green?style=flat)
@@ -1365,6 +1370,16 @@ Paper Vault
   Kimi-VL Technical Report
   ![year](https://img.shields.io/badge/2025-green?style=flat)
   ![auth](https://img.shields.io/badge/KimiTeam-red?style=flat)
+- [ ] [:link:](./files/MM/[2025%20@aaai%20@huawei%20Rang]%20Eve_Efficient%20Multimodal%20Vision%20Language%20Models%20with%20Elastic%20Visual%20Experts.pdf)
+  Eve: Efficient Multimodal Vision Language Models with Elastic Visual Experts
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Rang-red?style=flat)
+  ![tags](https://img.shields.io/badge/huawei-blue?style=flat)
+- [ ] [:link:](./files/MM/[2025%20@aaai%20Arif]%20HiRED_Attention-Guided%20Token%20Dropping%20for%20Efficient%20Inference%20of%20High-Resolution%20Vision-Language%20Models.pdf)
+  HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Arif-red?style=flat)
+  ![tags](https://img.shields.io/badge/aaai-blue?style=flat)
 - [ ] [:link:](./files/MM/[2025%20@bytedance%20Guo]%20Seed1.5-VL%20Technical%20Report.pdf)
   Seed1.5-VL Technical Report
   ![year](https://img.shields.io/badge/2025-green?style=flat)
