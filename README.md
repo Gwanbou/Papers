@@ -959,6 +959,30 @@ Paper Vault
   Towards a Unified View of Preference Learning for Large Language Models: A Survey
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Gao-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20#pretrain-data%20Chen]%20Aioli_A%20Unified%20Optimization%20Framework%20for%20Language%20Model%20Data%20Mixing.pdf)
+  Aioli: A Unified Optimization Framework for Language Model Data Mixing
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Chen-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20#pretrain-data%20Engstrom]%20DsDm_Model-Aware%20Dataset%20Selection%20with%20Datamodels.pdf)
+  DsDm: Model-Aware Dataset Selection with Datamodels
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Engstrom-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20#pretrain-data%20Jiang]%20Adaptive%20Data%20Optimization_Dynamic%20Sample%20Selection%20with%20Scaling%20Laws.pdf)
+  Adaptive Data Optimization: Dynamic Sample Selection with Scaling Laws
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Jiang-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20#pretrain-data%20Yu]%20MATES_Model-Aware%20Data%20Selection%20for%20Efficient%20Pretraining%20with%20Data%20Influence%20Models.pdf)
+  MATES: Model-Aware Data Selection for Efficient Pretraining with Data Influence Models
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Yu-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20#pretrain-data%20Zhang]%20Harnessing%20Diversity%20for%20Important%20Data%20Selection%20in%20Pretraining%20Large%20Language%20Models.pdf)
+  Harnessing Diversity for Important Data Selection in Pretraining Large Language Models
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Zhang-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20#pretrain-data%20Zhou]%20Programming%20Every%20Example_Lifting%20Pre-training%20Data%20Quality%20Like%20Experts%20at%20Scale.pdf)
+  Programming Every Example: Lifting Pre-training Data Quality Like Experts at Scale
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Zhou-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20#reflection-tuning%20Li]%20Selective%20Reflection-Tuning_Student-Selected%20Data%20Recycling%20for%20LLM%20Instruction-Tuning.pdf)
   Selective Reflection-Tuning: Student-Selected Data Recycling for LLM Instruction-Tuning
   ![year](https://img.shields.io/badge/2024-green?style=flat)
