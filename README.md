@@ -419,6 +419,11 @@ Paper Vault
   ![year](https://img.shields.io/badge/2025-green?style=flat)
   ![auth](https://img.shields.io/badge/Ni-red?style=flat)
   ![tags](https://img.shields.io/badge/baidu-blue?style=flat)
+- [ ] [:link:](./files/DOX/[2025%20@bytedance%20Feng]%20Dolphin_Document%20Image%20Parsing%20via%20Heterogeneous%20Anchor%20Prompting.pdf)
+  Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Feng-red?style=flat)
+  ![tags](https://img.shields.io/badge/bytedance-blue?style=flat)
 - [ ] [:link:](./files/DOX/[2025%20@ibm%20GraniteVision]%20Granite%20Vision_A%20Lightweight,%20Open-Source%20Multimodal%20Model%20for%20Enterprise%20Intelligence.pdf)
   Granite Vision: A Lightweight, Open-Source Multimodal Model for Enterprise Intelligence
   ![year](https://img.shields.io/badge/2025-green?style=flat)
@@ -701,6 +706,14 @@ Paper Vault
   Atlas: Few-shot Learning with Retrieval Augmented Language Models
   ![year](https://img.shields.io/badge/2022-green?style=flat)
   ![auth](https://img.shields.io/badge/Izacard-red?style=flat)
+- [ ] [:link:](./files/NLP/[2023%20#agent%20#blog%20Weng]%20LLM%20Powered%20Autonomous%20Agents.pdf)
+  LLM Powered Autonomous Agents
+  ![year](https://img.shields.io/badge/2023-green?style=flat)
+  ![auth](https://img.shields.io/badge/Weng-red?style=flat)
+- [ ] [:link:](./files/NLP/[2023%20#agent%20Wang]%20A%20Survey%20on%20Large%20Language%20Model%20based%20Autonomous%20Agents.pdf)
+  A Survey on Large Language Model based Autonomous Agents
+  ![year](https://img.shields.io/badge/2023-green?style=flat)
+  ![auth](https://img.shields.io/badge/Wang-red?style=flat)
 - [ ] [:link:](./files/NLP/[2023%20#agent_talk%20Shinn]%20Reflexion_Language%20Agents%20with%20Verbal%20Reinforcement%20Learning.pdf)
   Reflexion: Language Agents with Verbal Reinforcement Learning
   ![year](https://img.shields.io/badge/2023-green?style=flat)
@@ -871,10 +884,6 @@ Paper Vault
   CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation
   ![year](https://img.shields.io/badge/2023-green?style=flat)
   ![auth](https://img.shields.io/badge/Li-red?style=flat)
-- [ ] [:link:](./files/NLP/[2023%20Lilian]%20LLM%20Powered%20Autonomous%20Agents.pdf)
-  LLM Powered Autonomous Agents
-  ![year](https://img.shields.io/badge/2023-green?style=flat)
-  ![auth](https://img.shields.io/badge/Lilian-red?style=flat)
 - [ ] [:link:](./files/NLP/[2023%20Long]%20Adapt%20in%20Contexts_Retrieval-Augmented%20Domain%20Adaptation%20via%20In-Context%20Learning.pdf)
   Adapt in Contexts: Retrieval-Augmented Domain Adaptation via In-Context Learning
   ![year](https://img.shields.io/badge/2023-green?style=flat)
@@ -923,10 +932,18 @@ Paper Vault
   A Survey of Large Language Models
   ![year](https://img.shields.io/badge/2023-green?style=flat)
   ![auth](https://img.shields.io/badge/Zhao-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20#agent%20Durante]%20Agent%20AI_Surveying%20the%20Horizons%20of%20Multimodal%20Interaction.pdf)
+  Agent AI: Surveying the Horizons of Multimodal Interaction
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Durante-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20#agent%20Guo]%20Large%20Language%20Model%20based%20Multi-Agents_A%20Survey%20of%20Progress%20and%20Challenges.pdf)
   Large Language Model based Multi-Agents: A Survey of Progress and Challenges
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Guo-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20#agent%20Zhang]%20A%20Survey%20on%20the%20Memory%20Mechanism%20of%20Large%20Language%20Model%20based%20Agents.pdf)
+  A Survey on the Memory Mechanism of Large Language Model based Agents
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Zhang-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20#agent_talk%20Fourney]%20Magentic-One_A%20Generalist%20Multi-Agent%20System%20for%20Solving%20Complex%20Tasks.pdf)
   Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -987,11 +1004,6 @@ Paper Vault
   Selective Reflection-Tuning: Student-Selected Data Recycling for LLM Instruction-Tuning
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Li-red?style=flat)
-- [ ] [:link:](./files/NLP/[2024%20@Anthropic%20Anthropic]%20Building%20Effective%20Agents.pdf)
-  Building Effective Agents
-  ![year](https://img.shields.io/badge/2024-green?style=flat)
-  ![auth](https://img.shields.io/badge/Anthropic-red?style=flat)
-  ![tags](https://img.shields.io/badge/Anthropic-blue?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20@aaai%20Chen]%20Benchmarking%20Large%20Language%20Models%20in%20Retrieval-Augmented%20Generation.pdf)
   Benchmarking Large Language Models in Retrieval-Augmented Generation
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -1007,6 +1019,11 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Liu-red?style=flat)
   ![tags](https://img.shields.io/badge/alibaba-blue?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20@anthropic%20#agent%20Anthropic]%20Building%20Effective%20Agents.pdf)
+  Building Effective Agents
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Anthropic-red?style=flat)
+  ![tags](https://img.shields.io/badge/Anthropic-blue?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20@apple%20McKinzie]%20MM1_Methods,%20Analysis%20&%20Insights%20from%20Multimodal%20LLM%20Pre-training.pdf)
   MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -1017,15 +1034,15 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Ustun-red?style=flat)
   ![tags](https://img.shields.io/badge/cohere-blue?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20@emnlp%20#agent%20Zhao]%20LongAgent_Scaling%20Language%20Models%20to%20128k%20Context%20through%20Multi-Agent%20Collaboration.pdf)
+  LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Zhao-red?style=flat)
+  ![tags](https://img.shields.io/badge/emnlp-blue?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20@emnlp%20Wang]%20Searching%20for%20Best%20Practices%20in%20Retrieval-Augmented%20Generation.pdf)
   Searching for Best Practices in Retrieval-Augmented Generation
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Wang-red?style=flat)
-  ![tags](https://img.shields.io/badge/emnlp-blue?style=flat)
-- [ ] [:link:](./files/NLP/[2024%20@emnlp%20Zhao]%20LongAgent_Scaling%20Language%20Models%20to%20128k%20Context%20through%20Multi-Agent%20Collaboration.pdf)
-  LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration
-  ![year](https://img.shields.io/badge/2024-green?style=flat)
-  ![auth](https://img.shields.io/badge/Zhao-red?style=flat)
   ![tags](https://img.shields.io/badge/emnlp-blue?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20@google%20#gemini%20Google]%20Gemini%201.5_Unlocking%20multimodal%20understanding%20across%20millions%20of%20tokens%20of%20context.pdf)
   Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context
@@ -1124,10 +1141,6 @@ Paper Vault
   Understanding Emergent Abilities of Language Models from the Loss Perspective
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Du-red?style=flat)
-- [ ] [:link:](./files/NLP/[2024%20Durante]%20Agent%20AI_Surveying%20the%20Horizons%20of%20Multimodal%20Interaction.pdf)
-  Agent AI: Surveying the Horizons of Multimodal Interaction
-  ![year](https://img.shields.io/badge/2024-green?style=flat)
-  ![auth](https://img.shields.io/badge/Durante-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20Edge]%20From%20Local%20to%20Global_A%20Graph%20RAG%20Approach%20to%20Query-Focused%20Summarization.pdf)
   From Local to Global: A Graph RAG Approach to Query-Focused Summarization
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -1216,10 +1229,26 @@ Paper Vault
   Quantifying Positional Biases in Text Embedding Models
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/lee-red?style=flat)
+- [ ] [:link:](./files/NLP/[2025%20#agent%20Casper]%20The%20AI%20Agent%20Index.pdf)
+  The AI Agent Index
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Casper-red?style=flat)
 - [ ] [:link:](./files/NLP/[2025%20#agent%20Luo]%20Large%20Language%20Model%20Agent_A%20Survey%20on%20Methodology,%20Applications%20and%20Challenges.pdf)
   Large Language Model Agent: A Survey on Methodology, Applications and Challenges
   ![year](https://img.shields.io/badge/2025-green?style=flat)
   ![auth](https://img.shields.io/badge/Luo-red?style=flat)
+- [ ] [:link:](./files/NLP/[2025%20#agent%20Rawat]%20Pre-Act_Multi-Step%20Planning%20and%20Reasoning%20Improves%20Acting%20in%20LLM%20Agents.pdf)
+  Pre-Act: Multi-Step Planning and Reasoning Improves Acting in LLM Agents
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Rawat-red?style=flat)
+- [ ] [:link:](./files/NLP/[2025%20#agent%20Yehudai]%20Survey%20on%20Evaluation%20of%20LLM-based%20Agents.pdf)
+  Survey on Evaluation of LLM-based Agents
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Yehudai-red?style=flat)
+- [ ] [:link:](./files/NLP/[2025%20#agent%20Zhu]%20MultiAgentBench_Evaluating%20the%20Collaboration%20and%20Competition%20of%20LLM%20agents.pdf)
+  MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Zhu-red?style=flat)
 - [ ] [:link:](./files/NLP/[2025%20#blog%20Silver]%20Welcome%20to%20the%20Era%20of%20Experience.pdf)
   Welcome to the Era of Experience
   ![year](https://img.shields.io/badge/2025-green?style=flat)
@@ -1238,15 +1267,16 @@ Paper Vault
   ![year](https://img.shields.io/badge/2025-green?style=flat)
   ![auth](https://img.shields.io/badge/Golovneva-red?style=flat)
   ![tags](https://img.shields.io/badge/meta-blue?style=flat)
-- [ ] [:link:](./files/NLP/[2025%20@salesforce%20#reasoning%20Ke]%20A%20Survey%20of%20Frontiers%20in%20LLM%20Reasoning_Inference%20Scaling,%20Learning%20to%20Reason,%20and%20Agentic%20Systems.pdf)
+- [ ] [:link:](./files/NLP/[2025%20@meta%20Han]%20Reinforcement%20Learning%20from%20User%20Feedback.pdf)
+  Reinforcement Learning from User Feedback
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Han-red?style=flat)
+  ![tags](https://img.shields.io/badge/meta-blue?style=flat)
+- [ ] [:link:](./files/NLP/[2025%20@salesforce%20#reasoning%20#agent%20Ke]%20A%20Survey%20of%20Frontiers%20in%20LLM%20Reasoning_Inference%20Scaling,%20Learning%20to%20Reason,%20and%20Agentic%20Systems.pdf)
   A Survey of Frontiers in LLM Reasoning: Inference Scaling, Learning to Reason, and Agentic Systems
   ![year](https://img.shields.io/badge/2025-green?style=flat)
   ![auth](https://img.shields.io/badge/Ke-red?style=flat)
   ![tags](https://img.shields.io/badge/salesforce-blue?style=flat)
-- [ ] [:link:](./files/NLP/[2025%20Casper]%20The%20AI%20Agent%20Index.pdf)
-  The AI Agent Index
-  ![year](https://img.shields.io/badge/2025-green?style=flat)
-  ![auth](https://img.shields.io/badge/Casper-red?style=flat)
 - [ ] [:link:](./files/NLP/[2025%20Cetin]%20An%20Evolved%20Universal%20Transformer%20Memory.pdf)
   An Evolved Universal Transformer Memory
   ![year](https://img.shields.io/badge/2025-green?style=flat)
