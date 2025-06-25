@@ -414,6 +414,16 @@ Paper Vault
   ![year](https://img.shields.io/badge/2025-green?style=flat)
   ![auth](https://img.shields.io/badge/Liskavets-red?style=flat)
   ![tags](https://img.shields.io/badge/aaai-blue?style=flat)
+- [ ] [:link:](./files/DOX/[2025%20@alibaba%20Mo]%20Doc-CoB_Enhancing%20Multi-Modal%20Document%20Understanding%20with%20Visual%20Chain-of-Boxes%20Reasoning.pdf)
+  Doc-CoB: Enhancing Multi-Modal Document Understanding with Visual Chain-of-Boxes Reasoning
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Mo-red?style=flat)
+  ![tags](https://img.shields.io/badge/alibaba-blue?style=flat)
+- [ ] [:link:](./files/DOX/[2025%20@alibaba%20Shao]%20Is%20Cognition%20Consistent%20with%20Perception?%20Assessing%20and%20Mitigating%20Multimodal%20Knowledge%20Conflicts%20in%20Document%20Understanding.pdf)
+  Is Cognition Consistent with Perception? Assessing and Mitigating Multimodal Knowledge Conflicts in Document Understanding
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Shao-red?style=flat)
+  ![tags](https://img.shields.io/badge/alibaba-blue?style=flat)
 - [ ] [:link:](./files/DOX/[2025%20@baidu%20Ni]%20PP-DocBee_Improving%20Multimodal%20Document%20Understanding%20Through%20a%20Bag%20of%20Tricks.pdf)
   PP-DocBee: Improving Multimodal Document Understanding Through a Bag of Tricks
   ![year](https://img.shields.io/badge/2025-green?style=flat)
@@ -511,6 +521,10 @@ Paper Vault
   olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language Models
   ![year](https://img.shields.io/badge/2025-green?style=flat)
   ![auth](https://img.shields.io/badge/Poznanski-red?style=flat)
+- [ ] [:link:](./files/DOX/[2025%20Sampaio]%20Unsupervised%20Document%20and%20Template%20Clustering%20using%20Multimodal%20Embeddings.pdf)
+  Unsupervised Document and Template Clustering using Multimodal Embeddings
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Sampaio-red?style=flat)
 - [ ] [:link:](./files/DOX/[2025%20Suri]%20VisDoM_Multi-Document%20QA%20with%20Visually%20Rich%20Elements%20Using%20Multimodal%20Retrieval-Augmented%20Generation.pdf)
   VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation
   ![year](https://img.shields.io/badge/2025-green?style=flat)
@@ -1029,6 +1043,11 @@ Paper Vault
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/McKinzie-red?style=flat)
   ![tags](https://img.shields.io/badge/apple-blue?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20@bytedance%20Luong]%20REFT_Reasoning%20with%20REinforced%20Fine-Tuning.pdf.pdf)
+  REFT: Reasoning with REinforced Fine-Tuning.pdf
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Luong-red?style=flat)
+  ![tags](https://img.shields.io/badge/bytedance-blue?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20@cohere%20Ustun]%20Aya%20Model_An%20Instruction%20Finetuned%20Open-Access%20Multilingual%20Language%20Model.pdf)
   Aya Model: An Instruction Finetuned Open-Access Multilingual Language Model
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -1173,6 +1192,10 @@ Paper Vault
   DataComp-LM: In search of the next generation of training sets for language models
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Li-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20Liu]%20Inference-Time%20Language%20Model%20Alignment%20via%20Integrated%20Value%20Guidance.pdf)
+  Inference-Time Language Model Alignment via Integrated Value Guidance
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Liu-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20Ni]%20DIRAS_Efficient%20LLM%20Annotation%20of%20Document%20Relevance%20for%20Retrieval%20Augmented%20Generation.pdf)
   DIRAS: Efficient LLM Annotation of Document Relevance for Retrieval Augmented Generation
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -1201,6 +1224,10 @@ Paper Vault
   The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Wallace-red?style=flat)
+- [ ] [:link:](./files/NLP/[2024%20Wang]%20InferAligner_Inference-Time%20Alignment%20for%20Harmlessness%20through%20Cross-Model%20Guidance.pdf)
+  InferAligner: Inference-Time Alignment for Harmlessness through Cross-Model Guidance
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Wang-red?style=flat)
 - [ ] [:link:](./files/NLP/[2024%20Wang]%20One%20Prompt%20is%20not%20Enough_Automated%20Construction%20of%20a%20Mixture-of-Expert%20Prompts.pdf)
   One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -1257,6 +1284,11 @@ Paper Vault
   Why We Think
   ![year](https://img.shields.io/badge/2025-green?style=flat)
   ![auth](https://img.shields.io/badge/Weng-red?style=flat)
+- [ ] [:link:](./files/NLP/[2025%20@google%20#gemini%20Gemini]%20Gemini%202.5_Pushing%20the%20Frontier%20with%20Advanced%20Reasoning,%20Multimodality,%20Long%20Context,%20and%20Next%20Generation%20Agentic%20Capabilities.pdf)
+  Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Gemini-red?style=flat)
+  ![tags](https://img.shields.io/badge/google-blue?style=flat)
 - [ ] [:link:](./files/NLP/[2025%20@iclr%20Muennighoff]%20OLMoE_Open%20Mixture-of-Experts%20Language%20Models.pdf)
   OLMoE: Open Mixture-of-Experts Language Models
   ![year](https://img.shields.io/badge/2025-green?style=flat)
@@ -1272,6 +1304,11 @@ Paper Vault
   ![year](https://img.shields.io/badge/2025-green?style=flat)
   ![auth](https://img.shields.io/badge/Han-red?style=flat)
   ![tags](https://img.shields.io/badge/meta-blue?style=flat)
+- [ ] [:link:](./files/NLP/[2025%20@openai%20OpenAI]%20A%20Practical%20Guide%20to%20Building%20Agents.pdf)
+  A Practical Guide to Building Agents
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/OpenAI-red?style=flat)
+  ![tags](https://img.shields.io/badge/openai-blue?style=flat)
 - [ ] [:link:](./files/NLP/[2025%20@salesforce%20#reasoning%20#agent%20Ke]%20A%20Survey%20of%20Frontiers%20in%20LLM%20Reasoning_Inference%20Scaling,%20Learning%20to%20Reason,%20and%20Agentic%20Systems.pdf)
   A Survey of Frontiers in LLM Reasoning: Inference Scaling, Learning to Reason, and Agentic Systems
   ![year](https://img.shields.io/badge/2025-green?style=flat)
@@ -1281,6 +1318,10 @@ Paper Vault
   An Evolved Universal Transformer Memory
   ![year](https://img.shields.io/badge/2025-green?style=flat)
   ![auth](https://img.shields.io/badge/Cetin-red?style=flat)
+- [ ] [:link:](./files/NLP/[2025%20Chu]%20SFT%20Memorizes,%20RL%20Generalizes_A%20Comparative%20Study%20of%20Foundation%20Model%20Post-training.pdf)
+  SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Chu-red?style=flat)
 - [ ] [:link:](./files/NLP/[2025%20DeepSeek]%20DeepSeek_R1.pdf)
   DeepSeek: R1
   ![year](https://img.shields.io/badge/2025-green?style=flat)
@@ -1396,6 +1437,10 @@ Paper Vault
   Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Gou-red?style=flat)
+- [ ] [:link:](./files/MM/[2024%20Li]%20Multimodal%20Alignment%20and%20Fusion_A%20Survey.pdf)
+  Multimodal Alignment and Fusion: A Survey
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Li-red?style=flat)
 - [ ] [:link:](./files/MM/[2024%20Lin]%20MoE-LLaVA_Mixture%20of%20Experts%20for%20Large%20Vision-Language%20Models.pdf)
   MoE-LLaVA: Mixture of Experts for Large Vision-Language Models
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -1408,6 +1453,10 @@ Paper Vault
   Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution
   ![year](https://img.shields.io/badge/2024-green?style=flat)
   ![auth](https://img.shields.io/badge/Wang-red?style=flat)
+- [ ] [:link:](./files/MM/[2024%20Wardle]%20Image%20First%20or%20Text%20First?%20Optimising%20the%20Sequencing%20of%20Modalities%20in%20Large%20Language%20Model%20Prompting%20and%20Reasoning%20Tasks.pdf)
+  Image First or Text First? Optimising the Sequencing of Modalities in Large Language Model Prompting and Reasoning Tasks
+  ![year](https://img.shields.io/badge/2024-green?style=flat)
+  ![auth](https://img.shields.io/badge/Wardle-red?style=flat)
 - [ ] [:link:](./files/MM/[2024%20Yang]%20Law%20of%20Vision%20Representation%20in%20MLLMs.pdf)
   Law of Vision Representation in MLLMs
   ![year](https://img.shields.io/badge/2024-green?style=flat)
@@ -1438,6 +1487,11 @@ Paper Vault
   Seed1.5-VL Technical Report
   ![year](https://img.shields.io/badge/2025-green?style=flat)
   ![auth](https://img.shields.io/badge/Guo-red?style=flat)
+  ![tags](https://img.shields.io/badge/bytedance-blue?style=flat)
+- [ ] [:link:](./files/MM/[2025%20@bytedance%20Wang]%20Vision%20as%20LoRA.pdf)
+  Vision as LoRA
+  ![year](https://img.shields.io/badge/2025-green?style=flat)
+  ![auth](https://img.shields.io/badge/Wang-red?style=flat)
   ![tags](https://img.shields.io/badge/bytedance-blue?style=flat)
 - [ ] [:link:](./files/MM/[2025%20@iclr%20Neo]%20Towards%20Interpreting%20Visual%20Information%20Processing%20in%20Vision-Language%20Models.pdf)
   Towards Interpreting Visual Information Processing in Vision-Language Models
