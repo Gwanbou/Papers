@@ -1,5 +1,3 @@
-## Transformers and Language Models in Form Understanding: A Comprehensive Review of Scanned Document Analysis
-
 A recent review paper of form understanding of scanned document. Taxonomy:
 - Layout-Visual Fusion Models (LayoutLM, LayoutLMv2)
 - Graph-Based Models

@@ -1,8 +1,8 @@
-## Unlocking the Transferability of Tokens in Deep Models for Tabular Data
-
-- Paper: [https://arxiv.org/abs/2310.15149v1](https://arxiv.org/abs/2310.15149v1)
-- Code: NA
-- Organization: Nanjing University, Peking University
+---
+source: "https://arxiv.org/abs/2310.15149v1"
+Code: NA
+Organization: Nanjing University, Peking University
+---
 
 This article delves into addressing the issue of learned high-dimensional embeddings lacking semantic information in tabular deep models. The authors observe that "the learned tokens (embeddings) exhibit random behavior and lack discriminative properties". To remedy this, they utilize the semantic information provided by labels to understand feature relationships and optimize embeddings.
 

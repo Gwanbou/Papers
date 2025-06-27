@@ -1,5 +1,3 @@
-## TabR: Unlocking the Power of Retrieval-Augmented Tabular Deep Learning
-
 Overview
 - The authors of the paper argue that retrieval-based methods can be used to improve the performance of deep learning models for tabular data.
 - They propose TabR, which combines a simple feed-forward architecture with an attention-like retrieval component.

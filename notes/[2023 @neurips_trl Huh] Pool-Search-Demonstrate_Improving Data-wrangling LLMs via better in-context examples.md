@@ -1,8 +1,8 @@
-## Pool-Search-Demonstrate: Improving Data-wrangling LLMs via better in-context examples
-
-- Paper: [https://openreview.net/attachment?id=6Kb3pE9nWQ&name=pdf](https://openreview.net/attachment?id=6Kb3pE9nWQ&name=pdf)
-- Code: NA
-- Organization: University of Wisconsin–Madison
+---
+source: "https://openreview.net/attachment?id=6Kb3pE9nWQ&name=pdf"
+Code: NA
+Organization: University of Wisconsin–Madison
+---
 
 This paper introduces a demonstration strategy for data wrangling by LLMs. The central idea is the Pool-Search-Demonstrate (PSD) approach, which involves selecting in-context examples from the embedding space to construct LLM prompts (few-shot learning). The authors evaluate PSD across three tasks: Data Imputation (DI), Entity Matching (EM), and Error Detection (ED). The results indicate that PSD enhances performance, showing an 84\% improvement over random example demonstrations and a 49\% improvement over manually selected examples.
 
