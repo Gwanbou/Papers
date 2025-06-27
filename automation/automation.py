@@ -1,14 +1,12 @@
-import json
 import os
 from typing import List
+import re
+from pathlib import Path
 
 import pandas as pd
 from tabulate import tabulate
 
-YEAR_PATTERN = '![year](https://img.shields.io/badge/{}-green?style=flat)'
-AUTH_PATTERN = '![auth](https://img.shields.io/badge/{}-red?style=flat)'
-FILE_PATTERN = '[:link:]({})'
-TAG_PATTERN = '![tags](https://img.shields.io/badge/{}-blue?style=flat)'
+ROOT_PATH = Path.cwd()
 
 
 def update_database(file_path: str, data_path: str, topics: List[str], columns: List[str]) -> pd.DataFrame:
@@ -20,23 +18,25 @@ def update_database(file_path: str, data_path: str, topics: List[str], columns: 
         paper_files.sort()
 
         for paper_file in paper_files:
-            file_name = paper_file[:-4]
-            year = file_name[1:5]
-            author = file_name.split(']')[0].split(' ')[-1]
+            file_name = paper_file.replace('.pdf', '')
+            metadata = re.search(r'\[(.*?)\]', file_name).group(1)
+            year = metadata.split(' ')[0]
+            author = metadata.split(' ')[-1]
             title = file_name.split('] ')[1]
             paper_path = os.path.join(file_path, topic, paper_file)
-            tag = file_name.split('@')[-1].split(' ')[0] if '@' in file_name else ''
-            row = pd.DataFrame([[topic, year, author, title, paper_path, tag, '']], columns=columns)
+            tag = re.findall(r'@(\w+)', file_name)
+            tag = ' '.join(f"#{t}" for t in tag)
+            row = pd.DataFrame([[topic, year, author, title, paper_path, tag]], columns=columns)
             if row['title'].values not in database['title'].values:
                 paper_df = pd.concat([paper_df, row], ignore_index=True)
 
-    printed_columns = ['topic', 'year', 'author', 'title', 'tags', 'status']
+    printed_columns = ['topic', 'year', 'author', 'title', 'tags']
     markdown_table = tabulate(paper_df[printed_columns], headers='keys', tablefmt='pipe', showindex=False)
     print(f'Extracted {len(paper_df)} papers:')
     print(markdown_table)
 
     database = pd.concat([database, paper_df], ignore_index=True)
-    database = database.sort_values('paper', ignore_index=True)
+    database = database.sort_values('link', ignore_index=True)
     database.to_csv(data_path, index=False)
 
     return database
@@ -50,16 +50,12 @@ def load_table_entries(path: str, topic: str) -> List[str]:
 
 
 def format_entry(entry: pd.Series) -> str:
-    entry_str = '- [x] ' if isinstance(entry.loc['status'], str) else '- [ ] '
+    year = entry.loc['year']
+    author = entry.loc['author']
     title = entry.loc['title'].replace('_', ': ')
-    year = YEAR_PATTERN.format(entry.loc['year'])
-    author = AUTH_PATTERN.format(entry.loc['author'].replace('-', '_'))
-    paper = FILE_PATTERN.format(entry.loc['paper'].replace(' ', '%20'))
-    entry_str += f'{paper}\n  {title}\n  {year}\n  {author}'
-
+    link = entry.loc['link'].replace(' ', '%20')
     tags = entry.loc['tags'] if isinstance(entry.loc['tags'], str) else ''
-    tags = TAG_PATTERN.format(tags) if tags else ''
-    entry_str += f'\n  {tags}' if tags else ''
+    entry_str = f'- {year} - {author} - [{title}]({link}) - {tags}'
 
     return entry_str
 
@@ -98,11 +94,11 @@ def save_lines_to_file(path: str, lines: List[str]) -> None:
 
 
 if __name__ == '__main__':
-    file_path = './files/'
-    data_path = './automation/database.csv'
-    readme_path = 'README.md'
+    file_path = f'{ROOT_PATH}/files/'
+    data_path = f'{ROOT_PATH}/automation/database.csv'
+    readme_path = f'{ROOT_PATH}/README.md'
 
-    columns = ['topic', 'year', 'author', 'title', 'paper', 'tags', 'status']
+    columns = ['topic', 'year', 'author', 'title', 'link', 'tags']
     topics = [f for f in os.listdir(file_path) if os.path.isdir(os.path.join(file_path, f))]
     topics.sort()
     tokens = {}
