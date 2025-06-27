@@ -25,7 +25,7 @@ def update_database(file_path: str, data_path: str, topics: List[str], columns: 
             title = file_name.split('] ')[1]
             paper_path = os.path.join(file_path, topic, paper_file)
             tag = re.findall(r'@(\w+)', file_name)
-            tag = ' '.join(f"#{t}" for t in tag)
+            tag = ' '.join(f"#paper/{t}" for t in tag)
             row = pd.DataFrame([[topic, year, author, title, paper_path, tag]], columns=columns)
             if row['title'].values not in database['title'].values:
                 paper_df = pd.concat([paper_df, row], ignore_index=True)
