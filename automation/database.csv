@@ -146,7 +146,9 @@ MM,2025,Arif,HiRED_Attention-Guided Token Dropping for Efficient Inference of Hi
 MM,2025,Rang,Eve_Efficient Multimodal Vision Language Models with Elastic Visual Experts,./files/MM/[2025 @aaai Rang] Eve_Efficient Multimodal Vision Language Models with Elastic Visual Experts.pdf,#paper/aaai
 MM,2025,Feng,Dolphin_Document Image Parsing via Heterogeneous Anchor Prompting,./files/MM/[2025 @bytedance Feng] Dolphin_Document Image Parsing via Heterogeneous Anchor Prompting.pdf,#paper/bytedance
 MM,2025,Guo,Seed1.5-VL Technical Report,./files/MM/[2025 @bytedance Guo] Seed1.5-VL Technical Report.pdf,#paper/bytedance
+MM,2025,He,Seeing is Believing? Mitigating OCR Hallucinations in Multimodal Large Language Models,./files/MM/[2025 @bytedance He] Seeing is Believing? Mitigating OCR Hallucinations in Multimodal Large Language Models.pdf,#paper/bytedance
 MM,2025,Wang,Vision as LoRA,./files/MM/[2025 @bytedance Wang] Vision as LoRA.pdf,#paper/bytedance
+MM,2025,Wu,MMSearch-R1_Incentivizing LMMs to Search,./files/MM/[2025 @bytedance Wu] MMSearch-R1_Incentivizing LMMs to Search.pdf,#paper/bytedance
 MM,2025,Neo,Towards Interpreting Visual Information Processing in Vision-Language Models,./files/MM/[2025 @iclr Neo] Towards Interpreting Visual Information Processing in Vision-Language Models.pdf,#paper/iclr
 MM,2025,Yang,SWE-Bench Multimodal_Do AI Systems Generalize to Visual Software Domains?,./files/MM/[2025 @iclr Yang] SWE-Bench Multimodal_Do AI Systems Generalize to Visual Software Domains?.pdf,#paper/iclr
 MM,2025,Zhu,InternVL3_Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models,./files/MM/[2025 @internvl-3 Zhu] InternVL3_Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models.pdf,#paper/internvl-3
@@ -156,6 +158,7 @@ MM,2025,Yang,Magma_A Foundation Model for Multimodal AI Agents,./files/MM/[2025 
 MM,2025,QwenTeam,Qwen2.5-Omni Technical Report,./files/MM/[2025 @qwen2-5-omni QwenTeam] Qwen2.5-Omni Technical Report.pdf,#paper/qwen2-5-omni
 MM,2025,QwenTeam,Qwen2.5-VL Technical Report,./files/MM/[2025 @qwen2-5-vl QwenTeam] Qwen2.5-VL Technical Report.pdf,#paper/qwen2-5-vl
 MM,2025,Chen,"BLIP3-o_A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset","./files/MM/[2025 @salesforce Chen] BLIP3-o_A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset.pdf",#paper/salesforce
+MM,2025,Liu,VisionReasoner_Unified Visual Perception and Reasoning via Reinforcement Learning,./files/MM/[2025 Liu] VisionReasoner_Unified Visual Perception and Reasoning via Reinforcement Learning.pdf,
 MM,2025,Lu,InternVL-X_Advancing and Accelerating InternVL Series with Efficient Visual Token Compression,./files/MM/[2025 Lu] InternVL-X_Advancing and Accelerating InternVL Series with Efficient Visual Token Compression.pdf,
 MM,2025,Wolf,CM1 - A Dataset for Evaluating Few-Shot Information Extraction with Large Vision Language Models,./files/MM/[2025 Wolf] CM1 - A Dataset for Evaluating Few-Shot Information Extraction with Large Vision Language Models.pdf,
 MM,2025,Xu,Visual Planning_Let's Think Only with Images,./files/MM/[2025 Xu] Visual Planning_Let's Think Only with Images.pdf,
@@ -327,14 +330,17 @@ NLP,2025,Silver,Welcome to the Era of Experience,./files/NLP/[2025 @blog Silver]
 NLP,2025,Weng,Why We Think,./files/NLP/[2025 @blog Weng] Why We Think.pdf,#paper/blog
 NLP,2025,DeepSeek-AI,DeepSeek_R1,./files/NLP/[2025 @deepseek DeepSeek-AI] DeepSeek_R1.pdf,#paper/deepseek
 NLP,2025,Gemini,"Gemini 2.5_Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities","./files/NLP/[2025 @google @gemini Gemini] Gemini 2.5_Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities.pdf",#paper/google #paper/gemini
+NLP,2025,Charakorn,Text-to-LoRA_Instant Transformer Adaption,./files/NLP/[2025 @iclr Charakorn] Text-to-LoRA_Instant Transformer Adaption.pdf,#paper/iclr
 NLP,2025,Muennighoff,OLMoE_Open Mixture-of-Experts Language Models,./files/NLP/[2025 @iclr Muennighoff] OLMoE_Open Mixture-of-Experts Language Models.pdf,#paper/iclr
 NLP,2025,Golovneva,Multi-Token Attention,./files/NLP/[2025 @meta Golovneva] Multi-Token Attention.pdf,#paper/meta
 NLP,2025,Han,Reinforcement Learning from User Feedback,./files/NLP/[2025 @meta Han] Reinforcement Learning from User Feedback.pdf,#paper/meta
 NLP,2025,OpenAI,A Practical Guide to Building Agents,./files/NLP/[2025 @openai OpenAI] A Practical Guide to Building Agents.pdf,#paper/openai
+NLP,2025,OppoAI,OAgents_An Empirical Study of Building Effective Agents,./files/NLP/[2025 @oppo OppoAI] OAgents_An Empirical Study of Building Effective Agents.pdf,#paper/oppo
 NLP,2025,Ke,"A Survey of Frontiers in LLM Reasoning_Inference Scaling, Learning to Reason, and Agentic Systems","./files/NLP/[2025 @salesforce @reasoning @agent Ke] A Survey of Frontiers in LLM Reasoning_Inference Scaling, Learning to Reason, and Agentic Systems.pdf",#paper/salesforce #paper/reasoning #paper/agent
 NLP,2025,Cetin,An Evolved Universal Transformer Memory,./files/NLP/[2025 Cetin] An Evolved Universal Transformer Memory.pdf,
 NLP,2025,Chu,"SFT Memorizes, RL Generalizes_A Comparative Study of Foundation Model Post-training","./files/NLP/[2025 Chu] SFT Memorizes, RL Generalizes_A Comparative Study of Foundation Model Post-training.pdf",
 NLP,2025,Li,From System 1 to System 2_A Survey of Reasoning Large Language Models,./files/NLP/[2025 Li] From System 1 to System 2_A Survey of Reasoning Large Language Models.pdf,
+NLP,2025,Qiu,Alita_Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution,./files/NLP/[2025 Qiu] Alita_Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution.pdf,
 NLP,2025,Wu,CollabLLM_From Passive Responders to Active Collaborators,./files/NLP/[2025 Wu] CollabLLM_From Passive Responders to Active Collaborators.pdf,
 NLP,2025,Zhao,Absolute Zero_Reinforced Self-play Reasoning with Zero Data,./files/NLP/[2025 Zhao] Absolute Zero_Reinforced Self-play Reasoning with Zero Data.pdf,
 UNSORTED,2023,Liu,iTransformer_Inverted Transformers Are Effective for Time Series Forecasting,./files/UNSORTED/[2023 Liu] iTransformer_Inverted Transformers Are Effective for Time Series Forecasting.pdf,
