@@ -89,6 +89,7 @@ DOX,2024,Zmigrod,BuDDIE_A Business Document Dataset for Multi-task Information E
 DOX,2025,Liskavets,Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference,./files/DOX/[2025 @aaai Liskavets] Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference.pdf,#paper/aaai
 DOX,2025,Mo,Doc-CoB_Enhancing Multi-Modal Document Understanding with Visual Chain-of-Boxes Reasoning,./files/DOX/[2025 @alibaba Mo] Doc-CoB_Enhancing Multi-Modal Document Understanding with Visual Chain-of-Boxes Reasoning.pdf,#paper/alibaba
 DOX,2025,Shao,Is Cognition Consistent with Perception? Assessing and Mitigating Multimodal Knowledge Conflicts in Document Understanding,./files/DOX/[2025 @alibaba Shao] Is Cognition Consistent with Perception? Assessing and Mitigating Multimodal Knowledge Conflicts in Document Understanding.pdf,#paper/alibaba
+DOX,2025,Ni,PP-DocBee_Improving Multimodal Document Understanding Through a Bag of Tricks,./files/DOX/[2025 @baidu @paddle Ni] PP-DocBee_Improving Multimodal Document Understanding Through a Bag of Tricks.pdf,#paper/baidu #paper/paddle
 DOX,2025,Ni,PP-DocBee_Improving Multimodal Document Understanding Through a Bag of Tricks,./files/DOX/[2025 @baidu Ni] PP-DocBee_Improving Multimodal Document Understanding Through a Bag of Tricks.pdf,#paper/baidu
 DOX,2025,Feng,Dolphin_Document Image Parsing via Heterogeneous Anchor Prompting,./files/DOX/[2025 @bytedance Feng] Dolphin_Document Image Parsing via Heterogeneous Anchor Prompting.pdf,#paper/bytedance
 DOX,2025,GraniteVision,"Granite Vision_A Lightweight, Open-Source Multimodal Model for Enterprise Intelligence","./files/DOX/[2025 @ibm GraniteVision] Granite Vision_A Lightweight, Open-Source Multimodal Model for Enterprise Intelligence.pdf",#paper/ibm
@@ -114,11 +115,11 @@ DOX,2025,Sampaio,Unsupervised Document and Template Clustering using Multimodal 
 DOX,2025,Suri,VisDoM_Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation,./files/DOX/[2025 Suri] VisDoM_Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation.pdf,
 DOX,2025,Xie,PDF-WuKong_A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling,./files/DOX/[2025 Xie] PDF-WuKong_A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling.pdf,
 DOX,2025,Yu,OmniParser V2_Structured-Points-of-Thought for Unified Visual Text Parsing and Its Generality to Multimodal Large Language Models,./files/DOX/[2025 Yu] OmniParser V2_Structured-Points-of-Thought for Unified Visual Text Parsing and Its Generality to Multimodal Large Language Models.pdf,
-MM,2021,Rombach,High-Resolution Image Synthesis with Latent Diffusion Models,./files/MM/[2021 @diffusion Rombach] High-Resolution Image Synthesis with Latent Diffusion Models.pdf,#paper/diffusion
 MM,2021,Dosovitskiy,An Image is Worth 16x16 Words_Transformers for Image Recognition at Scale,./files/MM/[2021 @google @vit Dosovitskiy] An Image is Worth 16x16 Words_Transformers for Image Recognition at Scale.pdf,#paper/google #paper/vit
 MM,2021,Liu,Swin Transformer V2_Scaling Up Capacity and Resolution,./files/MM/[2021 @microsoft @swin Liu] Swin Transformer V2_Scaling Up Capacity and Resolution.pdf,#paper/microsoft #paper/swin
 MM,2021,Liu,Swin Transformer_Hierarchical Vision Transformer using Shifted Windows,./files/MM/[2021 @microsoft @swin Liu] Swin Transformer_Hierarchical Vision Transformer using Shifted Windows.pdf,#paper/microsoft #paper/swin
 MM,2021,Radford,Learning Transferable Visual Models From Natural Language Supervision,./files/MM/[2021 @openai @clip Radford] Learning Transferable Visual Models From Natural Language Supervision.pdf,#paper/openai #paper/clip
+MM,2021,Rombach,High-Resolution Image Synthesis with Latent Diffusion Models,./files/MM/[2021 @stable-diffusion Rombach] High-Resolution Image Synthesis with Latent Diffusion Models.pdf,#paper/stable-diffusion
 MM,2022,Peebles,Scalable Diffusion Models with Transformers,./files/MM/[2022 @dit @sora Peebles] Scalable Diffusion Models with Transformers.pdf,#paper/dit #paper/sora
 MM,2023,Bai,"Qwen-VL_A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond","./files/MM/[2023 @alibaba @qwen-vl Bai] Qwen-VL_A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond.pdf",#paper/alibaba #paper/qwen-vl
 MM,2023,Li,Monkey_Image Resolution and Text Label Are Important Things for Large Multi-modal Models,./files/MM/[2023 @cvpr Li] Monkey_Image Resolution and Text Label Are Important Things for Large Multi-modal Models.pdf,#paper/cvpr
@@ -200,8 +201,8 @@ NLP,2022,Bommasani,On the Opportunities and Risks of Foundation Models,./files/N
 NLP,2022,Ouyang,Training language models to follow instructions with human feedback,./files/NLP/[2022 @openai @rlhf Ouyang] Training language models to follow instructions with human feedback.pdf,#paper/openai #paper/rlhf
 NLP,2022,Izacard,Atlas_Few-shot Learning with Retrieval Augmented Language Models,./files/NLP/[2022 Izacard] Atlas_Few-shot Learning with Retrieval Augmented Language Models.pdf,
 NLP,2023,Weng,LLM Powered Autonomous Agents,./files/NLP/[2023 @agent @blog Weng] LLM Powered Autonomous Agents.pdf,#paper/agent #paper/blog
+NLP,2023,Shinn,Reflexion_Language Agents with Verbal Reinforcement Learning,./files/NLP/[2023 @agent @meetup Shinn] Reflexion_Language Agents with Verbal Reinforcement Learning.pdf,#paper/agent #paper/meetup
 NLP,2023,Wang,A Survey on Large Language Model based Autonomous Agents,./files/NLP/[2023 @agent Wang] A Survey on Large Language Model based Autonomous Agents.pdf,#paper/agent
-NLP,2023,Shinn,Reflexion_Language Agents with Verbal Reinforcement Learning,./files/NLP/[2023 @agent-talk Shinn] Reflexion_Language Agents with Verbal Reinforcement Learning.pdf,#paper/agent-talk
 NLP,2023,Rafailov,Direct Preference Optimization_Your Language Model is Secretly a Reward Model,./files/NLP/[2023 @dpo Rafailov] Direct Preference Optimization_Your Language Model is Secretly a Reward Model.pdf,#paper/dpo
 NLP,2023,Dankers,Memorisation Cartography_Mapping out the Memorisation-Generalisation Continuum in Neural Machine Translation,./files/NLP/[2023 @emnlp Dankers] Memorisation Cartography_Mapping out the Memorisation-Generalisation Continuum in Neural Machine Translation.pdf,#paper/emnlp
 NLP,2023,Jacovi,Stop Uploading Test Data in Plain Text_Practical Strategies for Mitigating Data Contamination by Evaluation Benchmarks,./files/NLP/[2023 @emnlp Jacovi] Stop Uploading Test Data in Plain Text_Practical Strategies for Mitigating Data Contamination by Evaluation Benchmarks.pdf,#paper/emnlp
@@ -252,15 +253,15 @@ NLP,2023,Yin,A Survey on Multimodal Large Language Models,./files/NLP/[2023 Yin]
 NLP,2023,Zhao,A Survey of Large Language Models,./files/NLP/[2023 Zhao] A Survey of Large Language Models.pdf,
 NLP,2024,Chen,Benchmarking Large Language Models in Retrieval-Augmented Generation,./files/NLP/[2024 @aaai Chen] Benchmarking Large Language Models in Retrieval-Augmented Generation.pdf,#paper/aaai
 NLP,2024,@alibaba,On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models,./files/NLP/[2024 @acl @alibaba] On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models.pdf,#paper/acl #paper/alibaba
+NLP,2024,Fourney,Magentic-One_A Generalist Multi-Agent System for Solving Complex Tasks,./files/NLP/[2024 @agent @meetup Fourney] Magentic-One_A Generalist Multi-Agent System for Solving Complex Tasks.pdf,#paper/agent #paper/meetup
+NLP,2024,Liu,Large Language Model-Based Agents for Software Engineering_A Survey,./files/NLP/[2024 @agent @meetup Liu] Large Language Model-Based Agents for Software Engineering_A Survey.pdf,#paper/agent #paper/meetup
+NLP,2024,Raad,Scaling Instructable Agents Across Many Simulated Worlds,./files/NLP/[2024 @agent @meetup Raad] Scaling Instructable Agents Across Many Simulated Worlds.pdf,#paper/agent #paper/meetup
+NLP,2024,Wang,Chain-of-Thought Reasoning Without Prompting,./files/NLP/[2024 @agent @meetup Wang] Chain-of-Thought Reasoning Without Prompting.pdf,#paper/agent #paper/meetup
+NLP,2024,Wu,ReFT_Representation Finetuning for Language Models,./files/NLP/[2024 @agent @meetup Wu] ReFT_Representation Finetuning for Language Models.pdf,#paper/agent #paper/meetup
+NLP,2024,Zhuge,Agent-as-a-Judge_Evaluate Agents with Agents,./files/NLP/[2024 @agent @meetup Zhuge] Agent-as-a-Judge_Evaluate Agents with Agents.pdf,#paper/agent #paper/meetup
 NLP,2024,Durante,Agent AI_Surveying the Horizons of Multimodal Interaction,./files/NLP/[2024 @agent Durante] Agent AI_Surveying the Horizons of Multimodal Interaction.pdf,#paper/agent
 NLP,2024,Guo,Large Language Model based Multi-Agents_A Survey of Progress and Challenges,./files/NLP/[2024 @agent Guo] Large Language Model based Multi-Agents_A Survey of Progress and Challenges.pdf,#paper/agent
 NLP,2024,Zhang,A Survey on the Memory Mechanism of Large Language Model based Agents,./files/NLP/[2024 @agent Zhang] A Survey on the Memory Mechanism of Large Language Model based Agents.pdf,#paper/agent
-NLP,2024,Fourney,Magentic-One_A Generalist Multi-Agent System for Solving Complex Tasks,./files/NLP/[2024 @agent-talk Fourney] Magentic-One_A Generalist Multi-Agent System for Solving Complex Tasks.pdf,#paper/agent-talk
-NLP,2024,Liu,Large Language Model-Based Agents for Software Engineering_A Survey,./files/NLP/[2024 @agent-talk Liu] Large Language Model-Based Agents for Software Engineering_A Survey.pdf,#paper/agent-talk
-NLP,2024,Raad,Scaling Instructable Agents Across Many Simulated Worlds,./files/NLP/[2024 @agent-talk Raad] Scaling Instructable Agents Across Many Simulated Worlds.pdf,#paper/agent-talk
-NLP,2024,Wang,Chain-of-Thought Reasoning Without Prompting,./files/NLP/[2024 @agent-talk Wang] Chain-of-Thought Reasoning Without Prompting.pdf,#paper/agent-talk
-NLP,2024,Wu,ReFT_Representation Finetuning for Language Models,./files/NLP/[2024 @agent-talk Wu] ReFT_Representation Finetuning for Language Models.pdf,#paper/agent-talk
-NLP,2024,Zhuge,Agent-as-a-Judge_Evaluate Agents with Agents,./files/NLP/[2024 @agent-talk Zhuge] Agent-as-a-Judge_Evaluate Agents with Agents.pdf,#paper/agent-talk
 NLP,2024,Liu,CoFE-RAG_A Comprehensive Full-chain Evaluation Framework for Retrieval-Augmented Generation with Enhanced Data Diversity,./files/NLP/[2024 @alibaba Liu] CoFE-RAG_A Comprehensive Full-chain Evaluation Framework for Retrieval-Augmented Generation with Enhanced Data Diversity.pdf,#paper/alibaba
 NLP,2024,Anthropic,Building Effective Agents,./files/NLP/[2024 @anthropic @agent Anthropic] Building Effective Agents.pdf,#paper/anthropic #paper/agent
 NLP,2024,McKinzie,"MM1_Methods, Analysis & Insights from Multimodal LLM Pre-training","./files/NLP/[2024 @apple McKinzie] MM1_Methods, Analysis & Insights from Multimodal LLM Pre-training.pdf",#paper/apple
@@ -326,12 +327,14 @@ NLP,2025,Luo,"Large Language Model Agent_A Survey on Methodology, Applications a
 NLP,2025,Rawat,Pre-Act_Multi-Step Planning and Reasoning Improves Acting in LLM Agents,./files/NLP/[2025 @agent Rawat] Pre-Act_Multi-Step Planning and Reasoning Improves Acting in LLM Agents.pdf,#paper/agent
 NLP,2025,Yehudai,Survey on Evaluation of LLM-based Agents,./files/NLP/[2025 @agent Yehudai] Survey on Evaluation of LLM-based Agents.pdf,#paper/agent
 NLP,2025,Zhu,MultiAgentBench_Evaluating the Collaboration and Competition of LLM agents,./files/NLP/[2025 @agent Zhu] MultiAgentBench_Evaluating the Collaboration and Competition of LLM agents.pdf,#paper/agent
+NLP,2025,Nie,Large Language Diffusion Models,./files/NLP/[2025 @alibaba @meetup Nie] Large Language Diffusion Models.pdf,#paper/alibaba #paper/meetup
 NLP,2025,Silver,Welcome to the Era of Experience,./files/NLP/[2025 @blog Silver] Welcome to the Era of Experience.pdf,#paper/blog
 NLP,2025,Weng,Why We Think,./files/NLP/[2025 @blog Weng] Why We Think.pdf,#paper/blog
 NLP,2025,DeepSeek-AI,DeepSeek_R1,./files/NLP/[2025 @deepseek DeepSeek-AI] DeepSeek_R1.pdf,#paper/deepseek
 NLP,2025,Gemini,"Gemini 2.5_Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities","./files/NLP/[2025 @google @gemini Gemini] Gemini 2.5_Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities.pdf",#paper/google #paper/gemini
 NLP,2025,Charakorn,Text-to-LoRA_Instant Transformer Adaption,./files/NLP/[2025 @iclr Charakorn] Text-to-LoRA_Instant Transformer Adaption.pdf,#paper/iclr
 NLP,2025,Muennighoff,OLMoE_Open Mixture-of-Experts Language Models,./files/NLP/[2025 @iclr Muennighoff] OLMoE_Open Mixture-of-Experts Language Models.pdf,#paper/iclr
+NLP,2025,Arriola,Block Diffusion_Interpolating Between Autoregressive and Diffusion Language Models,./files/NLP/[2025 @meetup Arriola] Block Diffusion_Interpolating Between Autoregressive and Diffusion Language Models.pdf,#paper/meetup
 NLP,2025,Golovneva,Multi-Token Attention,./files/NLP/[2025 @meta Golovneva] Multi-Token Attention.pdf,#paper/meta
 NLP,2025,Han,Reinforcement Learning from User Feedback,./files/NLP/[2025 @meta Han] Reinforcement Learning from User Feedback.pdf,#paper/meta
 NLP,2025,OpenAI,A Practical Guide to Building Agents,./files/NLP/[2025 @openai OpenAI] A Practical Guide to Building Agents.pdf,#paper/openai
@@ -342,6 +345,7 @@ NLP,2025,Chu,"SFT Memorizes, RL Generalizes_A Comparative Study of Foundation Mo
 NLP,2025,Li,From System 1 to System 2_A Survey of Reasoning Large Language Models,./files/NLP/[2025 Li] From System 1 to System 2_A Survey of Reasoning Large Language Models.pdf,
 NLP,2025,Qiu,Alita_Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution,./files/NLP/[2025 Qiu] Alita_Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution.pdf,
 NLP,2025,Wu,CollabLLM_From Passive Responders to Active Collaborators,./files/NLP/[2025 Wu] CollabLLM_From Passive Responders to Active Collaborators.pdf,
+NLP,2025,Yue,Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?,./files/NLP/[2025 Yue] Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?.pdf,
 NLP,2025,Zhao,Absolute Zero_Reinforced Self-play Reasoning with Zero Data,./files/NLP/[2025 Zhao] Absolute Zero_Reinforced Self-play Reasoning with Zero Data.pdf,
 UNSORTED,2023,Liu,iTransformer_Inverted Transformers Are Effective for Time Series Forecasting,./files/UNSORTED/[2023 Liu] iTransformer_Inverted Transformers Are Effective for Time Series Forecasting.pdf,
 UNSORTED,2024,HAI,AI Index Report 2024,./files/UNSORTED/[2024 HAI] AI Index Report 2024.pdf,
