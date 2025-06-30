@@ -1,6 +1,7 @@
+import datetime
 import os
-from typing import List
 import re
+from typing import List
 
 import pandas as pd
 from tabulate import tabulate
@@ -20,20 +21,22 @@ def update_database(file_path: str, data_path: str, topics: List[str], columns: 
             year = metadata.split(' ')[0]
             author = metadata.split(' ')[-1]
             title = file_name.split('] ')[1]
-            paper_path = os.path.join(file_path, topic, paper_file)
+            link = os.path.join(file_path, topic, paper_file)
             tag = re.findall(r'@([\w\.-]+)', file_name)
             tag = ' '.join(f"#paper/{t}" for t in tag)
-            row = pd.DataFrame([[topic, year, author, title, paper_path, tag]], columns=columns)
+            date = datetime.datetime.fromtimestamp(os.stat(link).st_mtime).strftime('%Y-%m-%d')
+
+            row = pd.DataFrame([[topic, year, author, title, link, tag, date]], columns=columns)
             if row['title'].values not in database['title'].values:
                 paper_df = pd.concat([paper_df, row], ignore_index=True)
 
-    printed_columns = ['topic', 'year', 'author', 'title', 'tags']
+    printed_columns = ['topic', 'year', 'author', 'title', 'tags', 'date']
     markdown_table = tabulate(paper_df[printed_columns], headers='keys', tablefmt='pipe', showindex=False)
     print(f'Extracted {len(paper_df)} papers:')
     print(markdown_table)
 
     database = pd.concat([database, paper_df], ignore_index=True)
-    database = database.sort_values('link', ignore_index=True)
+    database = database.sort_values(['topic', 'date', 'link'], ascending=[True, False, True], ignore_index=True)
     database.to_csv(data_path, index=False)
 
     return database
@@ -43,7 +46,6 @@ def load_table_entries(path: str, topic: str, format: str) -> List[str]:
     df = pd.read_csv(path, dtype=str)
     df = df[df['topic'] == topic]
     df.columns = df.columns.str.strip()
-    df = df.sort_values(by=['year', 'author'], ascending=[False, True])
     if format == 'markdown':
         return [format_entry_markdown(row) for _, row in df.iterrows()]
     elif format == 'paper_vault':
@@ -130,7 +132,7 @@ if __name__ == '__main__':
     readme_path = './README.md'
     paper_vault_path = './Paper Vault.md'
 
-    columns = ['topic', 'year', 'author', 'title', 'link', 'tags']
+    columns = ['topic', 'year', 'author', 'title', 'link', 'tags', 'date']
     topics = [f for f in os.listdir(file_path) if os.path.isdir(os.path.join(file_path, f))]
     topics.sort()
     markdown_tokens = {}
