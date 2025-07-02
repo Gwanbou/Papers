@@ -1,4 +1,5 @@
 topic,year,author,title,link,tags,date
+DOX,2025,Liu,Structured Attention Matters to Multimodal LLMs in Document Understanding,./files/DOX/[2025 @vivo Liu] Structured Attention Matters to Multimodal LLMs in Document Understanding.pdf,#paper/vivo,2025-07-01
 DOX,2025,Ni,PP-DocBee_Improving Multimodal Document Understanding Through a Bag of Tricks,./files/DOX/[2025 @baidu @paddle Ni] PP-DocBee_Improving Multimodal Document Understanding Through a Bag of Tricks.pdf,#paper/baidu #paper/paddle,2025-06-29
 DOX,2025,Chen,Graph-based Document Structure Analysis,./files/DOX/[2025 @iclr Chen] Graph-based Document Structure Analysis.pdf,#paper/iclr,2025-06-27
 DOX,2025,Chen,SV-RAG_LoRA-Contextualizing Adaptation of Large Multimodal Models for Multi-page Document Understanding,./files/DOX/[2025 @iclr Chen] SV-RAG_LoRA-Contextualizing Adaptation of Large Multimodal Models for Multi-page Document Understanding.pdf,#paper/iclr,2025-06-27
@@ -163,6 +164,7 @@ MM,2022,Peebles,Scalable Diffusion Models with Transformers,./files/MM/[2022 @di
 MM,2023,Li,Monkey_Image Resolution and Text Label Are Important Things for Large Multi-modal Models,./files/MM/[2023 @cvpr Li] Monkey_Image Resolution and Text Label Are Important Things for Large Multi-modal Models.pdf,#paper/cvpr,2024-04-05
 MM,2024,Cheng,YOLO-World_Real-Time Open-Vocabulary Object Detection,./files/MM/[2024 Cheng] YOLO-World_Real-Time Open-Vocabulary Object Detection.pdf,,2024-04-05
 MM,2023,Bai,Sequential Modeling Enables Scalable Learning for Large Vision Models,./files/MM/[2023 Bai] Sequential Modeling Enables Scalable Learning for Large Vision Models.pdf,,2023-12-05
+NLP,2023,Mueller,"In-context Learning Generalizes, But Not Always Robustly_The Case of Syntax","./files/NLP/[2023 @google Mueller] In-context Learning Generalizes, But Not Always Robustly_The Case of Syntax.pdf",#paper/google,2025-07-02
 NLP,2025,Nie,Large Language Diffusion Models,./files/NLP/[2025 @alibaba @meetup Nie] Large Language Diffusion Models.pdf,#paper/alibaba #paper/meetup,2025-06-30
 NLP,2025,Arriola,Block Diffusion_Interpolating Between Autoregressive and Diffusion Language Models,./files/NLP/[2025 @meetup Arriola] Block Diffusion_Interpolating Between Autoregressive and Diffusion Language Models.pdf,#paper/meetup,2025-06-30
 NLP,2025,Yue,Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?,./files/NLP/[2025 Yue] Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?.pdf,,2025-06-30
