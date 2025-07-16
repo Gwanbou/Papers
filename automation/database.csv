@@ -116,6 +116,9 @@ DOX,2023,Masry,UniChart_A Universal Vision-language Pretrained Model for Chart C
 DOX,2023,Han,ChartLlama_A Multimodal LLM for Chart Understanding and Generation,./files/DOX/[2023 Han] ChartLlama_A Multimodal LLM for Chart Understanding and Generation.pdf,,2023-11-30
 DOX,2023,Blecher,Nougat_Neural Optical Understanding for Academic Documents,./files/DOX/[2023 @meta Blecher] Nougat_Neural Optical Understanding for Academic Documents.pdf,#paper/meta,2023-09-05
 DOX,2023,Wang,VRDU_A Benchmark for Visually-rich Document Understanding,./files/DOX/[2023 Wang] VRDU_A Benchmark for Visually-rich Document Understanding.pdf,,2023-08-31
+MM,2025,Cui,PaddleOCR 3.0 Technical Report,./files/MM/[2025 @baidu @paddle Cui] PaddleOCR 3.0 Technical Report.pdf,#paper/baidu #paper/paddle,2025-07-10
+MM,2025,Meng,"VLM2Vec-V2_Advancing Multimodal Embedding for Videos, Images, and Visual Documents","./files/MM/[2025 @salesforce Meng] VLM2Vec-V2_Advancing Multimodal Embedding for Videos, Images, and Visual Documents.pdf",#paper/salesforce,2025-07-08
+MM,2025,KwaiKeye,Kwai Keye-VL Technical Report,./files/MM/[2025 KwaiKeye] Kwai Keye-VL Technical Report.pdf,,2025-07-08
 MM,2025,He,Seeing is Believing? Mitigating OCR Hallucinations in Multimodal Large Language Models,./files/MM/[2025 @bytedance He] Seeing is Believing? Mitigating OCR Hallucinations in Multimodal Large Language Models.pdf,#paper/bytedance,2025-06-29
 MM,2025,Wu,MMSearch-R1_Incentivizing LMMs to Search,./files/MM/[2025 @bytedance Wu] MMSearch-R1_Incentivizing LMMs to Search.pdf,#paper/bytedance,2025-06-29
 MM,2025,Liu,VisionReasoner_Unified Visual Perception and Reasoning via Reinforcement Learning,./files/MM/[2025 Liu] VisionReasoner_Unified Visual Perception and Reasoning via Reinforcement Learning.pdf,,2025-06-29
