@@ -1,4 +1,12 @@
-A recent review paper of form understanding of scanned document. Taxonomy:
+---
+Organization: University of Innsbruck
+Code: NA
+---
+
+A recent review paper of form understanding of scanned document.
+
+Taxonomy:
+
 - Layout-Visual Fusion Models (LayoutLM, LayoutLMv2)
 - Graph-Based Models
 - Multi-Modal Fusion Models (DocFormer)

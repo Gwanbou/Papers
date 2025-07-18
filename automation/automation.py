@@ -15,18 +15,22 @@ def update_database(file_path: str, data_path: str, topics: List[str], columns: 
         paper_files = [f for f in os.listdir(file_path + topic) if f.endswith('.pdf')]
         paper_files.sort()
 
+        note_files = [f for f in os.listdir(file_path + topic) if f.endswith('.md')]
+        note_files.sort()
+
         for paper_file in paper_files:
-            file_name = paper_file.replace('.pdf', '')
-            metadata = re.search(r'\[(.*?)\]', file_name).group(1)
+            paper_file_name = paper_file.replace('.pdf', '')
+            metadata = re.search(r'\[(.*?)\]', paper_file_name).group(1)
             year = metadata.split(' ')[0]
             author = metadata.split(' ')[-1]
-            title = file_name.split('] ')[1]
+            title = paper_file_name.split('] ')[1]
             link = os.path.join(file_path, topic, paper_file)
-            tag = re.findall(r'@([\w\.-]+)', file_name)
-            tag = ' '.join(f"#paper/{t}" for t in tag)
+            tag = re.findall(r'@([\w\.-]+)', paper_file_name)
+            tag = ' '.join(f'#paper/{t}' for t in tag)
             date = datetime.datetime.fromtimestamp(os.stat(link).st_mtime).strftime('%Y-%m-%d')
+            note = paper_file_name if paper_file_name + '.md' in note_files else ''
 
-            row = pd.DataFrame([[topic, year, author, title, link, tag, date]], columns=columns)
+            row = pd.DataFrame([[topic, year, author, title, link, tag, date, note]], columns=columns)
             if row['title'].values not in database['title'].values:
                 paper_df = pd.concat([paper_df, row], ignore_index=True)
 
@@ -52,19 +56,6 @@ def load_table_entries(path: str, topic: str, format: str) -> List[str]:
         return [format_entry_paper_vault(row) for _, row in df.iterrows()]
 
 
-def format_entry(entry: pd.Series) -> str:
-    year = entry.loc['year']
-    author = entry.loc['author']
-    title = entry.loc['title'].replace('_', ': ')
-    link = entry.loc['link']
-    tags = entry.loc['tags'] if isinstance(entry.loc['tags'], str) else ''
-    entry_str = f'`{year} {author}` | [[{link}|{title}]]'
-    if tags:
-        entry_str += f' | {tags}'
-
-    return entry_str
-
-
 def format_entry_markdown(entry: pd.Series) -> str:
     year = entry.loc['year']
     author = entry.loc['author']
@@ -85,7 +76,9 @@ def format_entry_paper_vault(entry: pd.Series) -> str:
     title = entry.loc['title'].replace('_', ': ')
     link = entry.loc['link']
     tags = entry.loc['tags'] if isinstance(entry.loc['tags'], str) else ''
-    entry_str = f'`{year} {author}` | [[{link}|{title}]]'
+    note = entry.loc['note'] if isinstance(entry.loc['note'], str) else None
+    entry_str = f'[[{note}|:LiNotepadText:]] ' if note is not None else ''
+    entry_str += f'`{year} {author}` | [[{link}|{title}]]'
     if tags:
         entry_str += f' | {tags}'
 
@@ -132,7 +125,7 @@ if __name__ == '__main__':
     readme_path = './README.md'
     paper_vault_path = './Paper Vault.md'
 
-    columns = ['topic', 'year', 'author', 'title', 'link', 'tags', 'date']
+    columns = ['topic', 'year', 'author', 'title', 'link', 'tags', 'date', 'note']
     topics = [f for f in os.listdir(file_path) if os.path.isdir(os.path.join(file_path, f))]
     topics.sort()
     markdown_tokens = {}

@@ -1,3 +1,8 @@
+---
+Organization: Huawei
+Code: NA
+---
+
 - Pre-training model of visual document understanding (VDU).
 - ViTLP predicts both document texts and layouts (text-layout sequence).
 - Given a document image, the model optimizes hierarchical language and layout modeling objectives to generate the interleaved text and layout sequence.
