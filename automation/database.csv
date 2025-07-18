@@ -1,4 +1,8 @@
 topic,year,author,title,link,tags,date
+DOX,2024,Wang,MinerU_An Open-Source Solution for Precise Document Content Extraction,./files/DOX/[2024 Wang] MinerU_An Open-Source Solution for Precise Document Content Extraction.pdf,,2025-07-18
+DOX,2025,Hormazábal,Spatially Grounded Explanations in Vision Language Models for Document Visual Question Answering,./files/DOX/[2025 Hormazábal] Spatially Grounded Explanations in Vision Language Models for Document Visual Question Answering.pdf,,2025-07-18
+DOX,2025,Li,MonkeyOCR_Document Parsing with a Structure-Recognition-Relation Triplet Paradigm,./files/DOX/[2025 Li] MonkeyOCR_Document Parsing with a Structure-Recognition-Relation Triplet Paradigm.pdf,,2025-07-18
+DOX,2025,Li,READoc_A Unified Benchmark for Realistic Document Structured Extraction,./files/DOX/[2025 Li] READoc_A Unified Benchmark for Realistic Document Structured Extraction.pdf,,2025-07-18
 DOX,2025,Liu,Structured Attention Matters to Multimodal LLMs in Document Understanding,./files/DOX/[2025 @vivo Liu] Structured Attention Matters to Multimodal LLMs in Document Understanding.pdf,#paper/vivo,2025-07-01
 DOX,2025,Ni,PP-DocBee_Improving Multimodal Document Understanding Through a Bag of Tricks,./files/DOX/[2025 @baidu @paddle Ni] PP-DocBee_Improving Multimodal Document Understanding Through a Bag of Tricks.pdf,#paper/baidu #paper/paddle,2025-06-29
 DOX,2025,Chen,Graph-based Document Structure Analysis,./files/DOX/[2025 @iclr Chen] Graph-based Document Structure Analysis.pdf,#paper/iclr,2025-06-27
@@ -116,6 +120,9 @@ DOX,2023,Masry,UniChart_A Universal Vision-language Pretrained Model for Chart C
 DOX,2023,Han,ChartLlama_A Multimodal LLM for Chart Understanding and Generation,./files/DOX/[2023 Han] ChartLlama_A Multimodal LLM for Chart Understanding and Generation.pdf,,2023-11-30
 DOX,2023,Blecher,Nougat_Neural Optical Understanding for Academic Documents,./files/DOX/[2023 @meta Blecher] Nougat_Neural Optical Understanding for Academic Documents.pdf,#paper/meta,2023-09-05
 DOX,2023,Wang,VRDU_A Benchmark for Visually-rich Document Understanding,./files/DOX/[2023 Wang] VRDU_A Benchmark for Visually-rich Document Understanding.pdf,,2023-08-31
+MM,2025,Kamath,Gemma 3 Technical Report,./files/MM/[2025 @google @gemma Kamath] Gemma 3 Technical Report.pdf,#paper/google #paper/gemma,2025-07-18
+MM,2025,Sellergren,MedGemma Technical Report,./files/MM/[2025 @google @gemma Sellergren] MedGemma Technical Report.pdf,#paper/google #paper/gemma,2025-07-18
+MM,2025,Shen,Skywork-R1V3 Technical Report,./files/MM/[2025 @kunlun Shen] Skywork-R1V3 Technical Report.pdf,#paper/kunlun,2025-07-18
 MM,2025,Cui,PaddleOCR 3.0 Technical Report,./files/MM/[2025 @baidu @paddle Cui] PaddleOCR 3.0 Technical Report.pdf,#paper/baidu #paper/paddle,2025-07-10
 MM,2025,Meng,"VLM2Vec-V2_Advancing Multimodal Embedding for Videos, Images, and Visual Documents","./files/MM/[2025 @salesforce Meng] VLM2Vec-V2_Advancing Multimodal Embedding for Videos, Images, and Visual Documents.pdf",#paper/salesforce,2025-07-08
 MM,2025,KwaiKeye,Kwai Keye-VL Technical Report,./files/MM/[2025 KwaiKeye] Kwai Keye-VL Technical Report.pdf,,2025-07-08
@@ -126,7 +133,6 @@ MM,2025,Neo,Towards Interpreting Visual Information Processing in Vision-Languag
 MM,2025,Yang,SWE-Bench Multimodal_Do AI Systems Generalize to Visual Software Domains?,./files/MM/[2025 @iclr Yang] SWE-Bench Multimodal_Do AI Systems Generalize to Visual Software Domains?.pdf,#paper/iclr,2025-06-27
 MM,2024,Li,Multimodal Alignment and Fusion_A Survey,./files/MM/[2024 Li] Multimodal Alignment and Fusion_A Survey.pdf,,2025-06-19
 MM,2024,Wardle,Image First or Text First? Optimising the Sequencing of Modalities in Large Language Model Prompting and Reasoning Tasks,./files/MM/[2024 Wardle] Image First or Text First? Optimising the Sequencing of Modalities in Large Language Model Prompting and Reasoning Tasks.pdf,,2025-06-19
-MM,2025,Feng,Dolphin_Document Image Parsing via Heterogeneous Anchor Prompting,./files/MM/[2025 @bytedance Feng] Dolphin_Document Image Parsing via Heterogeneous Anchor Prompting.pdf,#paper/bytedance,2025-06-19
 MM,2025,Wang,Vision as LoRA,./files/MM/[2025 @bytedance Wang] Vision as LoRA.pdf,#paper/bytedance,2025-06-19
 MM,2025,Arif,HiRED_Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models,./files/MM/[2025 @aaai Arif] HiRED_Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models.pdf,#paper/aaai,2025-05-21
 MM,2025,Rang,Eve_Efficient Multimodal Vision Language Models with Elastic Visual Experts,./files/MM/[2025 @aaai Rang] Eve_Efficient Multimodal Vision Language Models with Elastic Visual Experts.pdf,#paper/aaai,2025-05-21
@@ -167,6 +173,10 @@ MM,2022,Peebles,Scalable Diffusion Models with Transformers,./files/MM/[2022 @di
 MM,2023,Li,Monkey_Image Resolution and Text Label Are Important Things for Large Multi-modal Models,./files/MM/[2023 @cvpr Li] Monkey_Image Resolution and Text Label Are Important Things for Large Multi-modal Models.pdf,#paper/cvpr,2024-04-05
 MM,2024,Cheng,YOLO-World_Real-Time Open-Vocabulary Object Detection,./files/MM/[2024 Cheng] YOLO-World_Real-Time Open-Vocabulary Object Detection.pdf,,2024-04-05
 MM,2023,Bai,Sequential Modeling Enables Scalable Learning for Large Vision Models,./files/MM/[2023 Bai] Sequential Modeling Enables Scalable Learning for Large Vision Models.pdf,,2023-12-05
+NLP,2025,Pan,Trinity-RFT_A General-Purpose and Unified Framework for Reinforcement Fine-Tuning of Large Language Models,./files/NLP/[2025 @alibaba @rft Pan] Trinity-RFT_A General-Purpose and Unified Framework for Reinforcement Fine-Tuning of Large Language Models.pdf,#paper/alibaba #paper/rft,2025-07-18
+NLP,2025,Shi,Aime_Towards Fully-Autonomous Multi-Agent Framework,./files/NLP/[2025 @bytedance Shi] Aime_Towards Fully-Autonomous Multi-Agent Framework.pdf,#paper/bytedance,2025-07-18
+NLP,2025,Sun,Introspection of Thought Helps AI Agents,./files/NLP/[2025 Sun] Introspection of Thought Helps AI Agents.pdf,,2025-07-18
+NLP,2025,Wu,Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination,./files/NLP/[2025 Wu] Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination.pdf,,2025-07-18
 NLP,2023,Mueller,"In-context Learning Generalizes, But Not Always Robustly_The Case of Syntax","./files/NLP/[2023 @google Mueller] In-context Learning Generalizes, But Not Always Robustly_The Case of Syntax.pdf",#paper/google,2025-07-02
 NLP,2025,Nie,Large Language Diffusion Models,./files/NLP/[2025 @alibaba @meetup Nie] Large Language Diffusion Models.pdf,#paper/alibaba #paper/meetup,2025-06-30
 NLP,2025,Arriola,Block Diffusion_Interpolating Between Autoregressive and Diffusion Language Models,./files/NLP/[2025 @meetup Arriola] Block Diffusion_Interpolating Between Autoregressive and Diffusion Language Models.pdf,#paper/meetup,2025-06-30
