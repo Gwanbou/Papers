@@ -8,7 +8,6 @@ from tabulate import tabulate
 
 
 def update_database(file_path: str, data_path: str, topics: List[str], columns: List[str]) -> pd.DataFrame:
-    database = pd.read_csv(data_path)
     paper_df = pd.DataFrame(columns=columns)
 
     for topic in topics:
@@ -31,19 +30,15 @@ def update_database(file_path: str, data_path: str, topics: List[str], columns: 
             note = paper_file_name if paper_file_name + '.md' in note_files else ''
 
             row = pd.DataFrame([[topic, year, author, title, link, tag, date, note]], columns=columns)
-            if row['title'].values not in database['title'].values:
-                paper_df = pd.concat([paper_df, row], ignore_index=True)
+            paper_df = pd.concat([paper_df, row], ignore_index=True)
 
     printed_columns = ['topic', 'year', 'author', 'title', 'tags', 'date']
     markdown_table = tabulate(paper_df[printed_columns], headers='keys', tablefmt='pipe', showindex=False)
-    print(f'Extracted {len(paper_df)} papers:')
     print(markdown_table)
+    print(f'Extracted {len(paper_df)} papers.')
 
-    database = pd.concat([database, paper_df], ignore_index=True)
-    database = database.sort_values(['topic', 'date', 'link'], ascending=[True, False, True], ignore_index=True)
-    database.to_csv(data_path, index=False)
-
-    return database
+    paper_df = paper_df.sort_values(['topic', 'date', 'link'], ascending=[True, False, True], ignore_index=True)
+    paper_df.to_csv(data_path, index=False)
 
 
 def load_table_entries(path: str, topic: str, format: str) -> List[str]:
