@@ -1,5 +1,6 @@
 ---
-Organization: University of Innsbruck
+Organization:
+  - University of Innsbruck
 Code: NA
 ---
 

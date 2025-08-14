@@ -1,5 +1,6 @@
 ---
-Organization: Universitat Autònoma de Barcelona
+Organization:
+  - Universitat Autònoma de Barcelona
 Code: "https://github.com/maxhormazabal/EaGERS-DVQA"
 ---
 

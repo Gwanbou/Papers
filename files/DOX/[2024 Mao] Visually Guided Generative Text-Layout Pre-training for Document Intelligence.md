@@ -1,5 +1,6 @@
 ---
-Organization: Huawei
+Organization:
+  - Huawei
 Code: NA
 ---
 
